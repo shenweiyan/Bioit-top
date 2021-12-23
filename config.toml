@@ -1,0 +1,36 @@
+baseURL = "https://bioitee.com"
+languageCode = "zh-CN"
+title = "Bio & IT 网址导航 | Hugo 主题"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "public"
+
+[params]
+    author        = "shenweiyan"
+    description   = "Webstack Hugo 网址导航 | Bio IT 爱好者"
+    siteurl       = "./"
+    about         = "https://www.yuque.com/shenweiyan/cookbook/webstack-hugo"	# 左侧导航栏的"关于我们"页面(./about)
+    repository    = "https://github.com/shenweiyan/WebStack-Hugo"	
+    enablePreLoad = true	# 网站完全打开前预加载的动画
+    textPreLoad   = "Bio & IT 网址导航"	# 预加载的动画文字, 只有当enablePreLoad=true时生效
+    logosPath     = "https://nav-hub-1251708715.cos.ap-guangzhou.myqcloud.com/logos"	#网站每个导航地址logo存放地址
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+[params.qweather]
+    key = "085791e805a24491b43b06cf58ab31e7"
+
+[params.images]
+    favicon           = "https://nav-hub-1251708715.cos.ap-guangzhou.myqcloud.com/favicon.png"
+    searchImageL      = "https://nav-hub-1251708715.cos.ap-guangzhou.myqcloud.com/bg-bio.jpg"		#搜索部分浅色背景图
+    searchImageD      = "https://nav-hub-1251708715.cos.ap-guangzhou.myqcloud.com/bg-bio.jpg"		#搜索部分深色背景图
+    logoExpandLight   = "https://nav-hub-1251708715.cos.ap-guangzhou.myqcloud.com/bioitee-expand-light.png"
+    logoExpandDark    = "https://nav-hub-1251708715.cos.ap-guangzhou.myqcloud.com/bioitee-expand-dark.png"
+    logoCollapseLight = "https://nav-hub-1251708715.cos.ap-guangzhou.myqcloud.com/logo-collapse-light.png"
+    logoCollapseDark  = "https://nav-hub-1251708715.cos.ap-guangzhou.myqcloud.com/logo-collapse-dark.png"
+
+[params.footer]
+    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：ishenweiyan@foxmail.com <br/>&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [Bio IT 爱好者](https://www.bioitee.com/) | [粤ICP备16023717号](http://beian.miit.gov.cn/)<br/><a href="https://tongji.baidu.com/web/welcome/ico?s=a6024645dc953fdad017466a2b394935" target="_blank"><img border="0" src="https://tongji.baidu.com/sc-web/image/icon/31.gif" alt="百度统计" title="百度统计"></a>'

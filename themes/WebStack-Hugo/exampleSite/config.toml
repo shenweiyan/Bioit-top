@@ -1,0 +1,34 @@
+baseURL = "https://nav.bioitee.com"
+languageCode = "zh-CN"
+title = "Bio & IT 网址导航 | Hugo 主题"
+theme = "WebStack-Hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+publishDir = "docs"
+
+
+[params]
+    author        = "shenweiyan"
+    description   = "Webstack Hugo 网址导航 | Bio IT 爱好者"
+    siteurl       = "./"
+    about         = "https://www.yuque.com/shenweiyan/cookbook/webstack-hugo"   # 左侧导航栏的"关于导航"页面(./about)
+    repository    = "https://github.com/shenweiyan/WebStack-Hugo"
+    enablePreLoad = true		    		        # 网站完全打开前预加载的动画
+    textPreLoad   = "Bio & IT 网址导航"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
+    logosPath     = "assets/images/logos"				# 网站每个导航地址logo存放地址
+
+[params.qweather]
+    key = "085791e805a24491b43b06cf58ab31e7"
+
+[params.images]
+    favicon           = "assets/images/favicon.png"
+    searchImageL      = "assets/images/search-bg-light.jpg"		#搜索部分浅色背景图
+    searchImageD      = "assets/images/search-bg-dark.jpg"		#搜索部分深色背景图
+    logoExpandLight   = "assets/images/bioitee-expand-light.png"
+    logoExpandDark    = "assets/images/bioitee-expand-dark.png"
+    logoCollapseLight = "assets/images/logo-collapse-light.png"
+    logoCollapseDark  = "assets/images/logo-collapse-dark.png"
+
+[params.footer]
+    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：ishenweiyan@foxmail.com <br/>&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [Bio IT 爱好者](https://www.bioitee.com/) | [粤ICP备16023717号](http://beian.miit.gov.cn/)<br/>'
