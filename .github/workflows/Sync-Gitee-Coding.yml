@@ -2,7 +2,7 @@ name: Sync-Gitee-Coding
 
 on:
   push:
-    branches: [main]
+    branches: main
 
 jobs:
   push-to-mirror:
@@ -11,13 +11,16 @@ jobs:
       - name: Clone
         run: |
           git init
-          git remote add origin https://github.com/${GITHUB_REPOSITORY}.git
+          git remote add origin https://${GITHUB_USERNAME}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
           git fetch --all
           for branch in `git branch -a | grep remotes | grep -v HEAD`; do
             git branch --track ${branch##*/} $branch
           done
         env:
           GITHUB_REPOSITORY: shenweiyan/Nav.Bioitee.Src
+          GITHUB_USERNAME: ${{ secrets.GITHUB_USERNAME }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
       - name: Push to Coding
         run: |
           remote_repo="https://${CODING_USERNAME}:${CODING_PASSWORD}@e.coding.net/${CODING_REPOSITORY}.git"
