@@ -32,7 +32,7 @@ jobs:
           git push --all --force coding
           git push --tags --force coding
         env:
-          CODING_REPOSITORY: shumlan/webstack/nav.bioitee.src
+          CODING_REPOSITORY: shumlab/webstack/nav.bioitee.src
           CODING_USERNAME: ${{ secrets.CODING_USERNAME }}
           CODING_PASSWORD: ${{ secrets.CODING_PASSWORD }}
       - name: Push to Gitee
