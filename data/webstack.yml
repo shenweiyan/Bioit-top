@@ -346,7 +346,7 @@
           url: https://rockylinux.org/
           description: Rocky Linux OS。
         - title: AlmaLinux
-          logo: almalinux.svg
+          logo: AlmaLinux.png
           url: https://almalinux.org/
           description: AlmaLinux OS.
 
