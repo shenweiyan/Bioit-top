@@ -344,7 +344,11 @@
         - title: Rocky Linux
           logo: rockylinux.png
           url: https://rockylinux.org/
-          description: Rocky Linux 官网。
+          description: Rocky Linux OS。
+        - title: AlmaLinux
+          logo: almalinux.svg
+          url: https://almalinux.org/
+          description: AlmaLinux OS.
 
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
