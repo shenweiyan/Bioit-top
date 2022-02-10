@@ -17,18 +17,18 @@ jobs:
       - name: Setup Hugo	# 步骤名自取
         uses: peaceiris/actions-hugo@v2	# hugo官方提供的action，用于在任务环境中获取hugo
         with:
-          hugo-version: '0.59.0'	# 获取最新版本的hugo
+          hugo-version: '0.59.0'	# 获取指定版本的hugo
           # extended: true
 
       - name: Build 
-        run: hugo --minify	# 使用hugo构建静态网页
+        run: hugo --minify	# 使用 hugo 构建静态网页
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3	# 一个自动发布github pages的action
         with:
           external_repository: shenweiyan/Nav.Bioitee.Pub	# 发布到哪个repo
-          #1. 创建personal_token：GitHub 个人账号 -> Settings -> Developer settings
-          #2. 粘贴personal_token：进入源repo(Nav.Bioitee.Src) -> Settings -> Secrets一栏，选择 New repository secret -> 粘贴personal_token
+          #1. 创建Personal_Access_Token：GitHub 个人账号 -> Settings -> Developer settings -> Personal access tokens
+          #2. 粘贴Personal_Access_Token：进入源repo(Nav.Bioitee.Src) -> Settings -> Secrets一栏，选择 New repository secret -> 粘贴personal_token
           personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}	# 发布到其他repo需要提供上面生成的personal access token
           publish_dir: ./public	# 注意这里指的是要发布哪个文件夹的内容，而不是指发布到目的仓库的什么位置，因为hugo默认生成静态网页到public文件夹，所以这里发布public文件夹里的内容
           publish_branch: main	# 发布到哪个branch
