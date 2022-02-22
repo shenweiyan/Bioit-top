@@ -31,11 +31,7 @@
       logo: md2all.jpg
       url: http://md.aclickall.com/
       description: Markdown 排版利器。
-    - title: Md2X Editor CN
-      logo: mdx.png
-      url: https://mdx.ncbix.com/
-      description: 公众号 Markdown 排版利器，国内部署。
-    - title: Md2X Editor EN
+    - title: Md2X Editor
       logo: mdx.png
       url: https://mdx.bioitee.com/
       description: 公众号 Markdown 排版利器，国外部署。
