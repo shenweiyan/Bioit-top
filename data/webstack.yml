@@ -273,10 +273,6 @@
           description: 电影天堂（DYGOD），高清电影下载。
     - term: 游戏竞技
       links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: https://tieba.baidu.com/index.html
-          description: 百度贴吧。
         - title: 台服战地
           logo: 战地之王.png
           url: https://ava.mangot5.com/ava/index
@@ -290,11 +286,22 @@
           url: https://store.steampowered.com/
           description: 欢迎来到 Steam。
 
-- taxonomy: 社区论坛
+- taxonomy: 交流学习
   icon: fas fa fa-comments
   list:
-    - term: 博客论坛
+    - term: 社区论坛
       links:
+        - title: 中羽在线社区
+          logo: 中羽.png
+          description: 中羽在线社区-羽毛球友都在这！
+        - title: 百度贴吧
+          logo: 百度贴吧.jpg
+          url: https://tieba.baidu.com/index.html
+          description: 百度贴吧。
+        - title: 豆瓣
+          logo: 豆瓣.jpg
+          url: https://www.douban.com/
+          description: 豆瓣社区。
         - title: 花粉俱乐部
           logo: 华为云.png
           url: https://club.huawei.com/
@@ -319,6 +326,8 @@
           url: https://bbs.pinggu.org/
           logo: 经管之家.jpg
           description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
+    - term: 博客站点
+      links:
         - title: 阮一峰的网络日志
           url: http://www.ruanyifeng.com/blog/
           logo: 阮一峰.png
