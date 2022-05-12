@@ -60,7 +60,6 @@
       url: https://shenweiyan.coding.net/public-artifacts
       description: 'Bio & IT 常用软件安装包。'
 
-
 - taxonomy: 生物信息
   icon: fas fa-flask fa-lg
   list:
@@ -110,7 +109,6 @@
           logo: cngbdb.png
           url: https://db.cngb.org/
           description: 国家基因库生命大数据平台。
-        
     - term: 云服务器
       links:
         - title: 阿里云
@@ -192,6 +190,50 @@
           logo: 谷歌翻译.jpg
           url: https://translate.google.cn/
           description: 谷歌翻译。
+    - term: 周刊杂志
+      links:
+        - title: 科技爱好者周刊
+          url: http://www.ruanyifeng.com/blog/
+          logo: 阮一峰.png
+          description: 阮一峰的网络日志。
+        - title: 好工具周刊
+          url: https://bestxtools.zhubai.love/
+          logo: 好工具周刊.png
+          description: 发现并分享有趣，有创意，免费、好用的工具，每周四发布。
+        - title: 生信爱好者周刊
+          url: https://shixiangwang.github.io/weekly/
+          logo: 生信爱好者周刊.png
+          description: 记录每周值得分享的生信相关内容，周日发布。
+        - title: 产品变现周刊
+          url: https://www.ezindie.com/weekly
+          logo: 产品变现周刊.png
+          description: 独立开发变现人物志、产品周刊、工具集。
+        - title: 独立产品灵感周刊
+          url: https://decohack.zhubai.love/
+          logo: 独立产品灵感周刊.png
+          description: 新闻洞察、行业分析、文章推荐、工具分享、下饭视频。
+        - title: 酷玩周刊
+          url: https://www.getrevue.co/profile/coldplay-weekly
+          logo: 酷玩周刊.png
+          description: 发掘一切有趣的数字生活。
+        - title: 混沌周
+          url: https://weekly.love/
+          logo: 混沌周刊.png
+          description: 有关科技，有关开发，有关生活。
+        - title: 财新周刊
+          url: https://weekly.caixin.com/
+          logo: 财新周刊.png
+          description: 财新网周刊，财新网为原创财经新媒体。
+    - term: 博客站点
+      links:
+        - title: 酷壳
+          url: https://www.coolshell.cn/
+          logo: default_url.ico
+          description: 酷壳 – CoolShell。
+        - title: "Yihui Xie | 谢益辉"
+          logo: 谢益辉.png 
+          url: https://yihui.org/
+          description: 谢益辉的个人网站。
     - term: 书籍文档
       links:
         - title: 微信读书
@@ -326,21 +368,7 @@
         - title: 经管之家
           url: https://bbs.pinggu.org/
           logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
-    - term: 博客站点
-      links:
-        - title: 阮一峰的网络日志
-          url: http://www.ruanyifeng.com/blog/
-          logo: 阮一峰.png
-          description: 阮一峰，科技爱好者周刊。
-        - title: 酷壳
-          url: https://www.coolshell.cn/
-          logo: default_url.ico
-          description: 酷壳 – CoolShell。
-        - title: "Yihui Xie | 谢益辉"
-          logo: 谢益辉.png 
-          url: https://yihui.org/
-          description: 谢益辉的个人网站。
+          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。     
     - term: 开源社区
       links:
         - title: openEuler
