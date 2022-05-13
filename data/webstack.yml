@@ -27,10 +27,6 @@
       logo: github.png
       url: https://github.com/
       description: GitHub 开源社区。
-    - title: Md2All
-      logo: md2all.jpg
-      url: http://md.aclickall.com/
-      description: Markdown 排版利器。
     - title: Md2X Editor
       logo: mdx.png
       url: https://mdx.bioitee.com/
@@ -55,10 +51,6 @@
       logo: 语雀话题.png
       url: https://www.yuque.com/shenweiyan/wow
       description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
-    - title: BCL 制品仓库
-      logo: software.png
-      url: https://shenweiyan.coding.net/public-artifacts
-      description: 'Bio & IT 常用软件安装包。'
 
 - taxonomy: 生物信息
   icon: fas fa-flask fa-lg
