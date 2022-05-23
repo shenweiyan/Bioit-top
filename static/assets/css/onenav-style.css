@@ -1064,7 +1064,7 @@ input.nav-link:disabled,input.nav-link[readonly]{background-color:transparent;op
 .io-grey-mode .sidebar-popup::before{border-color:transparent #dadbdd transparent}
 .io-grey-mode .sidebar-nav,.io-grey-mode .sidebar-popup.sidebar-menu-inner ul li{background:#f0f2f4}
 .io-grey-mode .sidebar-item li>a:hover,.io-grey-mode .sidebar-popup>div>ul>li>a:hover{color:#f1404b;background:none}
-.io-grey-mode .main-content.flex-fill{background-image:url(https://cdn.jsdelivr.net/gh/shenweiyan/WebStack-Hugo/static/assets/images/bg.jpg)}
+.io-grey-mode .main-content.flex-fill{background-image:url(https://bioitee.coding.net/p/webstack/d/navhub/git/raw/master/bg.jpg)}
 
 /*--------------------------------------------------------------
 ## black style
