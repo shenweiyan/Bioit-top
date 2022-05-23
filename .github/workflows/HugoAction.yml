@@ -43,6 +43,6 @@ jobs:
           #2. 粘贴Personal_Access_Token：进入源repo(Nav.Bioitee.Src) -> Settings -> Secrets一栏，选择 New repository secret -> 粘贴personal_token
           personal_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}	# 发布到其他repo需要提供上面生成的personal access token
           publish_dir: ./public	# 注意这里指的是要发布哪个文件夹的内容，而不是指发布到目的仓库的什么位置，因为hugo默认生成静态网页到public文件夹，所以这里发布public文件夹里的内容
-          publish_branch: main	# 发布到哪个branch
+          publish_branch: master	# 发布到哪个branch
           force_orphan: true
           full_commit_message: ${{ github.event.head_commit.message }}
