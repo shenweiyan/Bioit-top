@@ -24,14 +24,14 @@ jobs:
           
       - name: Push to Coding
         run: |
-          echo "stop!"
-          #remote_repo="https://${CODING_USERNAME}:${CODING_PASSWORD}@e.coding.net/${CODING_REPOSITORY}.git"
-          #git remote add coding "${remote_repo}"
-          #git show-ref # useful for debugging
-          #git branch --verbose
+          #echo "stop!"
+          remote_repo="https://${CODING_USERNAME}:${CODING_PASSWORD}@e.coding.net/${CODING_REPOSITORY}.git"
+          git remote add coding "${remote_repo}"
+          git show-ref # useful for debugging
+          git branch --verbose
           # publish all
-          #git push --all --force coding
-          #git push --tags --force coding
+          git push --all --force coding
+          git push --tags --force coding
         env:
           CODING_REPOSITORY: shumlab/webstack/nav.bioitee.src
           CODING_USERNAME: ${{ secrets.CODING_USERNAME }}
