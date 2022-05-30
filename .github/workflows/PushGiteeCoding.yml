@@ -10,6 +10,7 @@ jobs:
     steps:
       - name: Clone
         run: |
+          echo "test"
           git config --global init.defaultBranch gh-pages
           git init
           git remote add origin https://${GITHUB_USERNAME}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
