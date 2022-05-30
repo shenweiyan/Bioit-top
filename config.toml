@@ -13,7 +13,7 @@ publishDir = "public"
     siteurl       = "./"
     about         = "https://www.yuque.com/shenweiyan/cookbook/webstack-hugo"	# 左侧导航栏的"关于我们"页面(./about)
     repository    = "https://github.com/shenweiyan/WebStack-Hugo"	
-    enablePreLoad = true	# 网站完全打开前预加载的动画
+    enablePreLoad = true        # 网站完全打开前预加载的动画
     textPreLoad   = "Bio & IT 网址导航"	# 预加载的动画文字, 只有当enablePreLoad=true时生效
     logosPath     = "https://nav-hub-1251708715.cos.ap-guangzhou.myqcloud.com/logos"	#网站每个导航地址logo存放地址
 
