@@ -2,7 +2,7 @@ name: PushGiteeCoding
 
 on:
   push:
-    branches: [gh-pages]
+    branches: [main]
 
 jobs:
   push-to-mirror:
@@ -11,7 +11,7 @@ jobs:
       - name: Clone
         run: |
           echo "test"
-          git config --global init.defaultBranch gh-pages
+          git config --global init.defaultBranch main
           git init
           git remote add origin https://${GITHUB_USERNAME}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
           git fetch --all
