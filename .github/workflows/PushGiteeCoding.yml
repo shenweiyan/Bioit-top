@@ -1,8 +1,8 @@
-name: Sync-Gitee-Coding
+name: PushGiteeCoding
 
 on:
   push:
-    branches: [main]
+    branches: [gh-pages]
 
 jobs:
   push-to-mirror:
@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Clone
         run: |
-          git config --global init.defaultBranch main
+          git config --global init.defaultBranch gh-pages
           git init
           git remote add origin https://${GITHUB_USERNAME}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
           git fetch --all
@@ -18,7 +18,7 @@ jobs:
             git branch --track ${branch##*/} $branch
           done
         env:
-          GITHUB_REPOSITORY: shenweiyan/Nav.Bioitee.Src
+          GITHUB_REPOSITORY: shenweiyan/NavBioITee
           GITHUB_USERNAME: ${{ secrets.GH_USERNAME }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           
