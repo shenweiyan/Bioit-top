@@ -419,6 +419,10 @@
           url: https://bbs.pinggu.org/
           logo: 经管之家.jpg
           description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
+        - title: 统计之都
+          url: https://cosx.org/
+          logo: 统计之都.png
+          description: 一个旨在推广与应用统计学知识的网站和社区。
     - term: 悠闲平台
       links:
         - title: 中羽在线社区
@@ -432,6 +436,15 @@
         - title: 豆瓣
           logo: 豆瓣.jpg
           url: https://www.douban.com/
+          description: 豆瓣社区。
+        - title: 虎扑社区
+          url: https://bbs.hupu.com/
+          logo: 虎扑.png
+          description: 以体育赛事和日常生活为主的专业直文化社区。
+        - title: NGA 玩家社区
+          url: https://bbs.nga.cn/
+          logo: nga.png
+          description: 国内专业的游戏玩家社区。
 
 - taxonomy: 工具集合
   icon: fas fa-tools fa-lg
