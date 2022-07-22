@@ -101,6 +101,10 @@
           logo: cngbdb.png
           url: https://db.cngb.org/
           description: 国家基因库生命大数据平台。
+        - title: LinearDesign
+          url: http://rna.baidu.com/
+          logo: lineardesign.jpg
+          description: 百度 mRNA 序列设计优化算法。
     - term: 云服务器
       links:
         - title: 阿里云
@@ -226,6 +230,18 @@
           logo: 谢益辉.png 
           url: https://yihui.org/
           description: 谢益辉的个人网站。
+        - title: 生信菜鸟团
+          url: http://www.bio-info-trainee.com/
+          logo: 生信菜鸟团.jpg
+          description: Jimmy 的个人博客笔记。
+        - title: 思考问题的熊
+          url: https://kaopubear.top/
+          logo: kaopubear.png
+          description: 中科院生物信息学博士，生物医疗相关。
+        - title: 徐洲更的第二大脑
+          url: https://xuzhougeng.top/
+          logo: 徐洲更.jpg
+          description: 中科院博士，编程技术爱好者。
     - term: 书籍文档
       links:
         - title: 微信读书
@@ -417,15 +433,35 @@
           logo: 豆瓣.jpg
           url: https://www.douban.com/
 
-- taxonomy: 开发设计
+- taxonomy: 工具集合
   icon: fas fa-tools fa-lg
   list: 
-    - term: 在线工具
+    - term: 图形文档
       links:
+        - title: 石墨文.png
+          url: https://shimo.im/
+          logo: 石墨文档.png
+          description: 支持多人协作的在线文档编辑工具。
+        - title: 腾讯文档
+          url: https://docs.qq.com/
+          logo: 腾讯文档.png
+          description: 腾讯文档 - 官方网站。
         - title: ProcessOn
           logo: ProcessOn.png
           url: https://www.processon.com/
           description: 免费在线作图、实时协作。
+        - title: 幕布
+          url: https://mubu.com/
+          logo: 幕布.jpg
+          description: 极简大纲笔记，可以一键生成思维导图。
+        - title: 百度脑图
+          url: https://naotu.baidu.com/
+          logo: 百度脑图.png
+          description: 百度便捷的在线思维导图制作工具。
+        - title: GitMind
+          url: https://gitmind.cn/
+          logo: getmind.png
+          description: 好用的全平台思维导图软件。
         - title: tinypng
           url: https://tinypng.com/
           logo: tinypng.png
@@ -454,6 +490,24 @@
           url: https://www.gaoding.com
           logo: gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图。
+    - term: 图床运营
+      links:
+        - title: 腾讯问卷
+          url: https://wj.qq.com/
+          logo: 腾讯问卷.png
+          description: 免费好用的问卷调查系统。
+        - title: 草料二维码
+          url: https://cli.im/
+          logo: 草料二维码.png
+          description: 将不同类型的内容生成二维码。
+        - title: 'SM.MS'
+          url: https://sm.ms/
+          logo: smms.png
+          description: 免费图床工具。
+        - title: ImgURL
+          url: https://www.imgurl.org/
+          logo: imgurl.png
+          description: 免费图片外链工具。
     - term: 谷歌插件
       links:
         - title: wappalyzer
