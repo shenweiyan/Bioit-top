@@ -35,10 +35,10 @@
       logo: 搜狗微信.jpg
       url: https://weixin.sogou.com/
       description: 搜狗微信搜索，一搜即达。
-    - title: 博客园
-      logo: 博客园.jpg
-      url: https://www.cnblogs.com/
-      description: 开发者的网上家园。
+    - title: 微博
+      logo: weibo.png
+      url: https://weibo.com/
+      description: 随时随地发现新鲜事。
     - title: 知乎
       logo: 知乎.png
       url: https://www.zhihu.com/
@@ -165,7 +165,7 @@
           url: http://www2.heatmapper.ca/expression/
           description: 免费的在线的聚类图绘制。
 
-- taxonomy: 交流学习
+- taxonomy: 教育学习
   icon: fas fa fa-graduation-cap
   list:        
     - term: 在线翻译
@@ -236,20 +236,6 @@
           url: https://www.bookstack.cn/
           logo: 书栈网.jpg
           description: IT 互联网开源编程书籍免费阅读与下载。
-    - term: 学习社区
-      links:
-        - title: 简书
-          url: https://www.jianshu.com/
-          logo: 简书.png
-          description: 简书 - 创作你的创作。
-        - title: 稀土掘金
-          url: https://juejin.cn/
-          logo: 稀土掘金.png
-          description: 掘金 - 代码不止，掘进不停。
-        - title: CSDN
-          url: https://www.csdn.net/
-          logo: csdn.jpg
-          description: CSDN - 专业开发者社区。
     - term: 视频教程
       links:
         - title: Photoshop Lady
@@ -320,23 +306,79 @@
           url: https://store.steampowered.com/
           description: 欢迎来到 Steam。
 
-- taxonomy: 交流学习
+- taxonomy: 社区论坛
   icon: fas fa fa-comments
   list:
-    - term: 社区论坛
+    - term: 开源社区
       links:
-        - title: 中羽在线社区
-          logo: 中羽.png
-          url: https://bbs.badmintoncn.com/portal.php
-          description: 中羽在线社区-羽毛球友都在这！
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: https://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 豆瓣
-          logo: 豆瓣.jpg
-          url: https://www.douban.com/
-          description: 豆瓣社区。
+        - title: openEuler
+          logo: openeuler.jpg
+          url: https://www.openeuler.org/
+          description: 欧拉 openEuler 社区。
+        - title: OpenAnolis
+          logo: openanolis.jpg
+          url: https://openanolis.cn/
+          description: 龙蜥 OpenAnolis 社区。
+        - title: Rocky Linux
+          logo: rockylinux.png
+          url: https://rockylinux.org/
+          description: Rocky Linux OS。
+        - title: AlmaLinux
+          logo: AlmaLinux.png
+          url: https://almalinux.org/
+          description: AlmaLinux OS.
+    - term: 生信论坛
+      links:
+        - title: Biostars
+          url: https://www.biostars.org/
+          logo: biostars.png
+          description: Bioinformatics Answers.
+        - title: OmicShare Forum
+          url: https://www.omicshare.com/forum/forum.php
+          logo: 基迪奥.png
+          description: 广州基迪奥生物信息论坛。
+        - title: 生信技能树
+          url: http://www.biotrainee.com/
+          logo: 生信技能树.jpg
+          description: 帮助每一位生信人构建最完善的生信技能树。
+        - title: BioLinkX
+          url: https://biolinkx.cn/
+          logo: biolinks.png
+          description: BioLinkX 生物信息学协会。
+    - term: 技术社区
+      links:
+        - title: 开源中国
+          url: https://www.oschina.net/
+          logo: oschina.png
+          description: 中文开源技术交流社区。
+        - title: 'Stack Overflow'
+          url: https://stackoverflow.com/
+          logo: stackoverflow.png
+          description: 'Where Developers Learn, Share, & Build Careers.'
+        - title: 博客园
+          logo: 博客园.jpg
+          url: https://www.cnblogs.com/
+          description: 开发者的网上家园。
+        - title: 简书
+          url: https://www.jianshu.com/
+          logo: 简书.png
+          description: 简书 - 创作你的创作。
+        - title: 稀土掘金
+          url: https://juejin.cn/
+          logo: 稀土掘金.png
+          description: 掘金 - 代码不止，掘进不停。
+        - title: CSDN
+          url: https://www.csdn.net/
+          logo: csdn.jpg
+          description: CSDN - 专业开发者社区。
+        - title: InfoQ
+          url: https://www.infoq.cn/
+          logo: infoq.png
+          description: 旨在促进软件开发领域知识与创新的传播。
+        - title: SegmentFault
+          url: https://segmentfault.com/
+          logo: segmentfault.png
+          description: 思否，开发者技术社区。
         - title: 花粉俱乐部
           logo: 华为云.png
           url: https://club.huawei.com/
@@ -360,25 +402,20 @@
         - title: 经管之家
           url: https://bbs.pinggu.org/
           logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。     
-    - term: 开源社区
+          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
+    - term: 悠闲平台
       links:
-        - title: openEuler
-          logo: openeuler.jpg
-          url: https://www.openeuler.org/
-          description: 欧拉 openEuler 社区。
-        - title: OpenAnolis
-          logo: openanolis.jpg
-          url: https://openanolis.cn/
-          description: 龙蜥 OpenAnolis 社区。
-        - title: Rocky Linux
-          logo: rockylinux.png
-          url: https://rockylinux.org/
-          description: Rocky Linux OS。
-        - title: AlmaLinux
-          logo: AlmaLinux.png
-          url: https://almalinux.org/
-          description: AlmaLinux OS.
+        - title: 中羽在线社区
+          logo: 中羽.png
+          url: https://bbs.badmintoncn.com/portal.php
+          description: 中羽在线社区-羽毛球友都在这！
+        - title: 百度贴吧
+          logo: 百度贴吧.jpg
+          url: https://tieba.baidu.com/index.html
+          description: 百度贴吧。
+        - title: 豆瓣
+          logo: 豆瓣.jpg
+          url: https://www.douban.com/
 
 - taxonomy: 开发设计
   icon: fas fa-tools fa-lg
