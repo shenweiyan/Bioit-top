@@ -39,6 +39,14 @@
       logo: weibo.png
       url: https://weibo.com/
       description: 随时随地发现新鲜事。
+    - title: 推特
+      logo: twitter.png
+      url: https://twitter.com/
+      description: Twitter
+    - title: Facebook
+      logo: facebook.png
+      url: https://www.facebook.com/
+      description: Facebook
     - title: 知乎
       logo: 知乎.png
       url: https://www.zhihu.com/
