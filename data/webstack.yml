@@ -459,7 +459,7 @@
   list: 
     - term: 图形文档
       links:
-        - title: 石墨文.png
+        - title: 石墨文档
           url: https://shimo.im/
           logo: 石墨文档.png
           description: 支持多人协作的在线文档编辑工具。
