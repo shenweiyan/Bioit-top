@@ -39,14 +39,6 @@
       logo: weibo.png
       url: https://weibo.com/
       description: 随时随地发现新鲜事。
-    - title: 推特
-      logo: twitter.png
-      url: https://twitter.com/
-      description: Twitter
-    - title: Facebook
-      logo: facebook.png
-      url: https://www.facebook.com/
-      description: Facebook
     - title: 知乎
       logo: 知乎.png
       url: https://www.zhihu.com/
@@ -431,7 +423,7 @@
           url: https://cosx.org/
           logo: 统计之都.png
           description: 一个旨在推广与应用统计学知识的网站和社区。
-    - term: 悠闲平台
+    - term: 社交媒体
       links:
         - title: 中羽在线社区
           logo: 中羽.png
@@ -449,6 +441,14 @@
           url: https://bbs.hupu.com/
           logo: 虎扑.png
           description: 以体育赛事和日常生活为主的专业直文化社区。
+        - title: 推特
+          logo: twitter.png
+          url: https://twitter.com/
+          description: Twitter
+        - title: Facebook
+          logo: facebook.png
+          url: https://www.facebook.com/
+          description: Facebook
         - title: NGA 玩家社区
           url: https://bbs.nga.cn/
           logo: nga.png
