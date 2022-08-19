@@ -13,9 +13,10 @@ publishDir = "public"
     siteurl       = "./"
     about         = "https://www.yuque.com/shenweiyan/cookbook/webstack-hugo"	# 左侧导航栏的"关于我们"页面(./about)
     repository    = "https://github.com/shenweiyan/WebStack-Hugo"	
-    enablePreLoad = true        # 网站完全打开前预加载的动画
-    textPreLoad   = "Bio & IT 网址导航"	# 预加载的动画文字, 只有当enablePreLoad=true时生效
-    logosPath     = "https://static.bioitee.com/webstack/logos"	#网站每个导航地址logo存放地址
+    enablePreLoad = true                                                        # 网站完全打开前预加载动画
+    textPreLoad   = "Bio & IT 网址导航"	                                        # 预加载的动画文字, 只有当enablePreLoad=true时生效
+    expandSidebar = false                                                       # 默认展开左侧边导航栏
+    logosPath     = "https://static.bioitee.com/webstack/logos"	                # 网站每个导航地址logo存放地址
 
 [markup.goldmark.renderer]
     unsafe = true
@@ -25,12 +26,12 @@ publishDir = "public"
 
 [params.images]
     favicon           = "https://static.bioitee.com/webstack/sites/favicon.png"
-    searchImageL      = "https://static.bioitee.com/webstack/sites/bg-bio.jpg"		#搜索部分浅色背景图
-    searchImageD      = "https://static.bioitee.com/webstack/sites/bg-bio.jpg"		#搜索部分深色背景图
-    logoExpandLight   = "https://static.bioitee.com/webstack/sites/bioitee-expand-light.png"
-    logoExpandDark    = "https://static.bioitee.com/webstack/sites/bioitee-expand-dark.png"
-    logoCollapseLight = "https://static.bioitee.com/webstack/sites/logo-collapse-light.png"
-    logoCollapseDark  = "https://static.bioitee.com/webstack/sites/logo-collapse-dark.png"
+    searchImageL      = "https://static.bioitee.com/webstack/sites/bg-bio.jpg"		  # 搜索部分浅色背景图
+    searchImageD      = "https://static.bioitee.com/webstack/sites/bg-bio.jpg"		  # 搜索部分深色背景图
+    logoExpandLight   = "https://static.bioitee.com/webstack/sites/bt8-expand-light.png"
+    logoExpandDark    = "https://static.bioitee.com/webstack/sites/bt8-expand-dark.png"
+    logoCollapseLight = "https://static.bioitee.com/webstack/sites/bt.png"
+    logoCollapseDark  = "https://static.bioitee.com/webstack/sites/bt.png"
 
 [params.footer]
     copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：<a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=shumlab@foxmail.com target="_blank">shumlab@foxmail.com</a> <br/>&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [Bio IT 爱好者](https://www.bioitee.com/) | [粤ICP备16023717号](http://beian.miit.gov.cn/)<br/>Powered by [Cloudflare Pages](https://pages.cloudflare.com/) <br/><a href="https://tongji.baidu.com/web/welcome/ico?s=a6024645dc953fdad017466a2b394935" target="_blank"><img border="0" src="https://tongji.baidu.com/sc-web/image/icon/31.gif" alt="百度统计" title="百度统计"></a>'
