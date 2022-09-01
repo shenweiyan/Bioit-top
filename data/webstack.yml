@@ -4,7 +4,7 @@
   icon: far fa-star
   links: 
     - title: 语雀
-      logo: 语雀.jpg
+      logo: 语雀.webp
       url: https://www.yuque.com/
       description: 专业的云端知识库。
     - title: QQ 邮箱
@@ -12,7 +12,7 @@
       url: http://mail.qq.com/
       description: 腾讯 QQ 邮箱。
     - title: 开源中国
-      logo: 开源中国.jpg
+      logo: 开源中国.webp
       url: https://www.oschina.net/
       description: 中文开源技术交流社区。
     - title: 公众号平台
