@@ -26,8 +26,8 @@ publishDir = "public"
 
 [params.images]
     favicon           = "https://static.bioitee.com/webstack/sites/favicon.png"
-    searchImageL      = "https://static.bioitee.com/webstack/sites/dna-bg.jpg"		  # 搜索部分浅色背景图
-    searchImageD      = "https://static.bioitee.com/webstack/sites/dna-bg.jpg"		  # 搜索部分深色背景图
+    searchImageL      = "https://static.bioitee.com/webstack/sites/bg-dna.jpg"		  # 搜索部分浅色背景图
+    searchImageD      = "https://static.bioitee.com/webstack/sites/bg-dna.jpg"		  # 搜索部分深色背景图
     logoExpandLight   = "https://static.bioitee.com/webstack/sites/bt8-expand-light.png"
     logoExpandDark    = "https://static.bioitee.com/webstack/sites/bt8-expand-dark.png"
     logoCollapseLight = "https://static.bioitee.com/webstack/sites/bt.png"
