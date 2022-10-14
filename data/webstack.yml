@@ -184,8 +184,16 @@
           description: 有道翻译。
         - title: 谷歌翻译
           logo: 谷歌翻译.jpg
-          url: https://translate.google.cn/
+          url: https://translate.google.com.hk/
           description: 谷歌翻译。
+        - title: 百度翻译
+          logo: 百度翻译.png
+          url: https://fanyi.baidu.com/
+          description: "200 种语言互译、沟通全世界！"
+        - title: DeeL 翻译
+          logo: deepl.svg
+          url: https://www.deepl.com/translator
+          description: 全世界最准确的翻译。
     - term: 周刊杂志
       links:
         - title: 科技爱好者周刊
