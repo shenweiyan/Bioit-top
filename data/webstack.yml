@@ -61,6 +61,10 @@
           logo: coding.png
           url: https://coding.net/
           description: 一站式软件研发管理平台。
+        - title: 极狐
+          logo: gitlab.webp
+          url: https://gitlab.cn/
+          description: 极狐GitLab 一体化 DevOps 平台。
 
 - taxonomy: 生信科研
   icon: fas fa-flask fa-lg
