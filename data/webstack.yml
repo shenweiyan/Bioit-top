@@ -7,10 +7,6 @@
       logo: 语雀.webp
       url: https://www.yuque.com/
       description: 专业的云端知识库。
-    - title: QQ 邮箱
-      logo: qq邮箱.png
-      url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱。
     - title: 开源中国
       logo: 开源中国.webp
       url: https://www.oschina.net/
@@ -39,7 +35,7 @@
       logo: v2ex.jpg
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区。
-    - title: 语雀话题
+    - title: 联系我们
       logo: 语雀话题.png
       url: https://www.yuque.com/shenweiyan/wow
       description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
@@ -69,6 +65,54 @@
           logo: gitlab.webp
           url: https://gitlab.com/
           description: The One DevOps Platform.
+          
+- taxonomy: 工作便利
+  icon: fas fa-briefcase fa-lg
+  list:
+    - term: 邮箱服务
+      links:
+        - title: QQ 邮箱
+          logo: qq邮箱.png
+          url: http://mail.qq.com/
+          description: 腾讯 QQ 邮箱。 
+        - title: 阿里云邮箱
+          logo: alimail.png
+          url: https://mail.aliyun.com/
+          description: 阿里邮箱个人版。
+        - title: 网易 163 邮箱
+          logo: 163.webp
+          url: https://mail.163.com/
+          description: 网易 163 免费邮箱。
+        - title: Gmail
+          logo: gmail.png
+          url: https://mail.google.com/
+          description: 谷歌 Gmail 邮箱。
+        - title: Outlook
+          logo: outlook.jpg
+          url: https://outlook.live.com/
+          description: Free personal email and calendar from Microsoft.
+    - term: 在线翻译
+      links:
+        - title: 有道词典
+          logo: 有道词典.png
+          url: https://www.youdao.com/
+          description: 免费，即时的多语种在线翻译。
+        - title: 有道翻译
+          logo: 有道词典.png
+          url: http://fanyi.youdao.com/
+          description: 有道翻译。
+        - title: 谷歌翻译
+          logo: 谷歌翻译.jpg
+          url: https://translate.google.com.hk/
+          description: 谷歌翻译。
+        - title: 百度翻译
+          logo: 百度翻译.png
+          url: https://fanyi.baidu.com/
+          description: "200 种语言互译、沟通全世界！"
+        - title: DeeL 翻译
+          logo: deepl.svg
+          url: https://www.deepl.com/translator
+          description: 全世界最准确的翻译。
 
 - taxonomy: 生信科研
   icon: fas fa-flask fa-lg
@@ -190,28 +234,6 @@
 - taxonomy: 教育学习
   icon: fas fa fa-graduation-cap
   list:        
-    - term: 在线翻译
-      links:
-        - title: 有道词典
-          logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 有道翻译
-          logo: 有道词典.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译。
-        - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
-          url: https://translate.google.com.hk/
-          description: 谷歌翻译。
-        - title: 百度翻译
-          logo: 百度翻译.png
-          url: https://fanyi.baidu.com/
-          description: "200 种语言互译、沟通全世界！"
-        - title: DeeL 翻译
-          logo: deepl.svg
-          url: https://www.deepl.com/translator
-          description: 全世界最准确的翻译。
     - term: 周刊杂志
       links:
         - title: 科技爱好者周刊
