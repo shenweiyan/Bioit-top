@@ -19,10 +19,6 @@
       logo: 微信公众号.png
       url: https://mp.weixin.qq.com/
       description: 再小的个体也有自己的品牌。
-    - title: GitHub
-      logo: github.png
-      url: https://github.com/
-      description: GitHub 开源社区。
     - title: Md2X Editor
       logo: mdx.png
       url: https://mdx.bioitee.com/
@@ -53,6 +49,10 @@
   list:
     - term: 代码托管
       links:
+        - title: GitHub
+          logo: github.png
+          url: https://github.com/
+          description: GitHub 开源社区。
         - title: 码云
           logo: gitee.webp
           url: https://gitee.com/
@@ -65,6 +65,10 @@
           logo: gitlab.webp
           url: https://gitlab.cn/
           description: 极狐GitLab 一体化 DevOps 平台。
+        - title: GitLab
+          logo: gitlab.webp
+          url: https://gitlab.com/
+          description: The One DevOps Platform.
 
 - taxonomy: 生信科研
   icon: fas fa-flask fa-lg
