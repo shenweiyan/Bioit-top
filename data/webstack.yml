@@ -581,6 +581,12 @@
           url: https://www.imgurl.org/
           logo: imgurl.png
           description: 免费图片外链工具。
+    - term: 视频语音
+      links:
+         - title: 一帧秒创
+           url: https://aigc.yizhentv.com/
+           logo: 一帧秒创.png
+           description: AI 视频创作平台。
     - term: 谷歌插件
       links:
         - title: wappalyzer
