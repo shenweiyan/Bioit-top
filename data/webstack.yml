@@ -331,6 +331,10 @@
           logo: 腾讯视频.png
           url: http://v.qq.com/
           description: 腾讯视频，海量视频在线观看。
+        - title: 抖音
+          logo: 抖音.png
+          url: https://www.douyin.com/
+          description: 抖音-记录美好生活。
         - title: 优酷
           logo: 优酷.png
           url: http://www.youku.com/
