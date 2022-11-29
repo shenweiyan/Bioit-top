@@ -87,6 +87,10 @@
           logo: 163.webp
           url: https://mail.163.com/
           description: 网易 163 免费邮箱。
+        - title: Email 完美邮箱
+          logo: ''
+          url: https://www.email.cn/
+          description: 'Email.cn - 完美邮箱'
         - title: Gmail
           logo: gmail.png
           url: https://mail.google.com/
