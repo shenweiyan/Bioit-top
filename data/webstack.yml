@@ -41,7 +41,7 @@
       description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
     - title: 关注我们
       logo: ""
-      url: https://bioitee.com
+      url: https://www.bioitee.com
       qrcode: https://static.bioitee.com/webstack/logos/qrcode.jpg
       description: BioIT 爱好者！
       
@@ -89,7 +89,7 @@
           url: https://mail.163.com/
           description: 网易 163 免费邮箱。
         - title: Email 完美邮箱
-          logo: ''
+          logo: ""
           url: https://www.email.cn/
           description: 'Email.cn - 完美邮箱'
         - title: Gmail
