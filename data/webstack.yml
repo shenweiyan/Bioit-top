@@ -40,10 +40,10 @@
       url: https://www.yuque.com/shenweiyan/wow
       description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
     - title: 关注我们
-      logo: ""
+      logo: 关注.jpg
       url: https://www.bioitee.com
       qrcode: https://static.bioitee.com/webstack/logos/qrcode.jpg
-      description: BioIT 爱好者！
+      description: 微信公众号：BioIT 爱好者！
       
 - taxonomy: 码农专区
   icon: fas fa-bug fa-lg
