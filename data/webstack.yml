@@ -7,10 +7,6 @@
       logo: 语雀.webp
       url: https://www.yuque.com/
       description: 专业的云端知识库。
-    - title: 'Flomo · 浮墨笔记'
-      logo: flomo.png
-      url: https://flomoapp.com/
-      description: 像发微博一样记笔记，记录你想法的川流。
     - title: 开源中国
       logo: 开源中国.webp
       url: https://www.oschina.net/
@@ -43,6 +39,11 @@
       logo: 语雀话题.png
       url: https://www.yuque.com/shenweiyan/wow
       description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
+    - title: 关注我们
+      logo: ""
+      url: https://bioitee.com
+      qrcode: https://static.bioitee.com/webstack/logos/qrcode.jpg
+      description: BioIT 爱好者！
       
 - taxonomy: 码农专区
   icon: fas fa-bug fa-lg
@@ -519,6 +520,10 @@
   list: 
     - term: 图形文档
       links:
+        - title: 'Flomo · 浮墨笔记'
+          logo: flomo.png
+          url: https://flomoapp.com/
+          description: 像发微博一样记笔记，记录你想法的川流。
         - title: 石墨文档
           url: https://shimo.im/
           logo: 石墨文档.png
