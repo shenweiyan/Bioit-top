@@ -189,7 +189,15 @@
         - title: 华为云
           logo: 华为云.png
           url: https://www.huaweicloud.com/
-          description: 提供云计算服务+智能，见未来-华为云。
+          description: 共建智能世界云底座。
+        - title: 七牛云
+          logo: 七牛云.jpg
+          url: https://www.qiniu.com/
+          description: 一站式场景化智能视频云。
+        - title: 京东云
+          logo: 京东云.jpg
+          url: https://www.jdcloud.com/
+          description: 京东科技集团旗下领先的云计算品牌。
         - title: 云筏科技
           logo: default_url.webp
           url: https://www.cloudraft.cn/
