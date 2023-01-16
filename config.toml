@@ -1,11 +1,11 @@
-baseURL = "https://bioitee.com"
-languageCode = "zh-CN"
-title = "Bio & IT 网址导航 | WebStack-Hugo"
-theme = "WebStack-Hugo"
+baseURL               = "https://nav.bioitee.com"
+languageCode          = "zh-CN"
+title                 = "Bio & IT 网址导航 | WebStack-Hugo"
+theme                 = "WebStack-Hugo"
 preserveTaxonomyNames = true
-disablePathToLower = true
-hasCJKLanguage = true
-publishDir = "public"
+disablePathToLower    = true
+hasCJKLanguage        = true
+publishDir            = "public"
 
 [params]
     author        = "shenweiyan"
@@ -18,10 +18,7 @@ publishDir = "public"
     textPreLoad   = "Bio & IT 网址导航"	                                        # 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = false                                                       # 默认展开左侧边导航栏
     logosPath     = "https://static.bioitee.com/webstack/logos"	                # 网站每个导航地址logo存放地址
-    defaultLogo   = "assets/images/logos/default.webp"             # logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
-
-[markup.goldmark.renderer]
-    unsafe = true
+    defaultLogo   = "assets/images/logos/default.webp"                          # logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
 
 [params.qweather]
     key = "085791e805a24491b43b06cf58ab31e7"
@@ -34,6 +31,9 @@ publishDir = "public"
     logoExpandDark    = "https://static.bioitee.com/webstack/sites/bt8-expand-dark.png"
     logoCollapseLight = "https://static.bioitee.com/webstack/sites/bt.png"
     logoCollapseDark  = "https://static.bioitee.com/webstack/sites/bt.png"
+
+[markup.goldmark.renderer]
+    unsafe = true
 
 [params.footer]
     copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：<a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=shumlab@foxmail.com" target="_blank">shumlab@foxmail.com</a> <br/>&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [Bio IT 爱好者](https://www.bioitee.com/) | [粤ICP备16023717号](http://beian.miit.gov.cn/)<br/>Powered by [Cloudflare Pages](https://pages.cloudflare.com/) <br/><a href="https://tongji.baidu.com/" target="_blank"><img border="0" src="https://tongji.baidu.com/sc-web/image/icon/31.gif" alt="百度统计" title="百度统计"></a>'
