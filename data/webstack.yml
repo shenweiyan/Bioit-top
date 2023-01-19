@@ -1,7 +1,36 @@
 ---
 
+- taxonomy: 作者站点
+  icon: fas fa-medal
+  links:
+    - title: 云端知识库
+      logo: octocat.png
+      url: https://shumlab.com
+      description: 沈维燕的语雀知识库，主力平台。
+    - title: 博客站点
+      logo: octocat.png
+      url: https://www.shumlab.com
+      description: 沈维燕个人博客站点，备用站点。
+    - title: BioIT 爱好者
+      logo: octocat.png
+      url: https://www.bioitee.com/
+      description: BioIT 爱好者主页。
+    - title: Md2X Editor
+      logo: mdx.png
+      url: https://mdx.bioitee.com/
+      description: 公众号 Markdown 排版利器，国外部署。
+    - title: 联系我们
+      logo: 语雀话题.png
+      url: https://www.yuque.com/shenweiyan/wow
+      description: 语雀话题：有趣的灵魂。
+    - title: 关注我们
+      logo: 关注.jpg
+      url: https://www.bioitee.com
+      qrcode: https://static.bioitee.com/webstack/logos/qrcode.jpg
+      description: 微信公众号：BioIT 爱好者！
+
 - taxonomy: 常用推荐
-  icon: fas fa-kiss-wink-heart
+  icon: fas fa-grin-stars
   links: 
     - title: 语雀
       logo: 语雀.webp
@@ -15,10 +44,6 @@
       logo: 微信公众号.png
       url: https://mp.weixin.qq.com/
       description: 再小的个体也有自己的品牌。
-    - title: Md2X Editor
-      logo: mdx.png
-      url: https://mdx.bioitee.com/
-      description: 公众号 Markdown 排版利器，国外部署。
     - title: 搜狗微信
       logo: 搜狗微信.jpg
       url: https://weixin.sogou.com/
@@ -27,23 +52,22 @@
       logo: weibo.png
       url: https://weibo.com/
       description: 随时随地发现新鲜事。
+    - title: 推特
+      logo: twitter.png
+      url: https://twitter.com/
+      description: Twitter
     - title: 知乎
       logo: 知乎.png
       url: https://www.zhihu.com/
       description: 知乎社区。
+    - title: 虎扑社区
+      url: https://bbs.hupu.com/
+      logo: 虎扑.png
+      description: 以体育赛事和日常生活为主的专业直文化社区。
     - title: V2EX
       logo: v2ex.jpg
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区。
-    - title: 联系我们
-      logo: 语雀话题.png
-      url: https://www.yuque.com/shenweiyan/wow
-      description: 语雀话题：有趣的灵魂。
-    - title: 关注我们
-      logo: 关注.jpg
-      url: https://www.bioitee.com
-      qrcode: https://static.bioitee.com/webstack/logos/qrcode.jpg
-      description: 微信公众号：BioIT 爱好者！
       
 - taxonomy: 码农专区
   icon: fas fa-bug fa-lg
@@ -492,7 +516,7 @@
           url: https://cosx.org/
           logo: 统计之都.png
           description: 一个旨在推广与应用统计学知识的网站和社区。
-    - term: 社交媒体
+    - term: 其他平台
       links:
         - title: 中羽在线社区
           logo: 中羽.png
@@ -506,14 +530,6 @@
           logo: 豆瓣.jpg
           url: https://www.douban.com/
           description: 豆瓣社区。
-        - title: 虎扑社区
-          url: https://bbs.hupu.com/
-          logo: 虎扑.png
-          description: 以体育赛事和日常生活为主的专业直文化社区。
-        - title: 推特
-          logo: twitter.png
-          url: https://twitter.com/
-          description: Twitter
         - title: Facebook
           logo: facebook.png
           url: https://www.facebook.com/
@@ -755,7 +771,7 @@
 
       
 - taxonomy: 素材资源
-  icon: far fa-folder-open fa-lg
+  icon: fas fa-folder-open fa-lg
   list:
     - term: 网盘资源
       links:
