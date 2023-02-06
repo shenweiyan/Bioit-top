@@ -95,7 +95,7 @@
           url: https://gitlab.com/
           description: The One DevOps Platform.
           
-- taxonomy: 工作便利
+- taxonomy: 工作职场
   icon: fas fa-briefcase fa-lg
   list:
     - term: 邮箱服务
@@ -150,6 +150,12 @@
           logo: deepl.svg
           url: https://www.deepl.com/translator
           description: 全世界最准确的翻译。
+    - term: 其他应用
+      links:
+        - title: 简单简历
+          logo: 简单简历.png
+          url: https://easycv.cn/
+          description: 五分钟打造互联网从业者的金牌简历。
 
 - taxonomy: 生信科研
   icon: fas fa-flask fa-lg
