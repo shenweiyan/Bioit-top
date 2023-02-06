@@ -150,12 +150,16 @@
           logo: deepl.svg
           url: https://www.deepl.com/translator
           description: 全世界最准确的翻译。
-    - term: 其他应用
+    - term: 求职招聘
       links:
         - title: 简单简历
           logo: 简单简历.png
           url: https://easycv.cn/
           description: 五分钟打造互联网从业者的金牌简历。
+        - title: 前程无忧
+          logo: 51job.jpg
+          url: https://www.51job.com/
+          description: 51JOB - 前程无忧招聘网。
 
 - taxonomy: 生信科研
   icon: fas fa-flask fa-lg
