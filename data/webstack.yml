@@ -30,7 +30,7 @@
       description: 微信公众号：BioIT 爱好者！
 
 - taxonomy: 常用推荐
-  icon: fas fa-grin-stars
+  icon: fas fa-star
   links: 
     - title: 语雀
       logo: 语雀.webp
@@ -70,7 +70,7 @@
       description: V2EX 创意工作者的社区。
       
 - taxonomy: 码农专区
-  icon: fas fa-bug fa-lg
+  icon: fab fa-github
   list:
     - term: 代码托管
       links:
@@ -162,7 +162,7 @@
           description: 51JOB - 前程无忧招聘网。
 
 - taxonomy: 生信科研
-  icon: fas fa-flask fa-lg
+  icon: fas fa-dna
   list:
     - term: 在线科研
       links:
@@ -374,7 +374,7 @@
           logo: imooc.png
         
 - taxonomy: 悠闲娱乐
-  icon: fas fa-coffee fa-lg
+  icon: fas fa-mug-hot
   list:
     - term: 影音视频
       links:
