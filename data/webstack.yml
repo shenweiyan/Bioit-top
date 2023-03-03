@@ -30,7 +30,7 @@
       description: 微信公众号：BioIT 爱好者！
 
 - taxonomy: 常用推荐
-  icon: fas fa-star
+  icon: far fa-star
   links: 
     - title: 语雀
       logo: 语雀.webp
