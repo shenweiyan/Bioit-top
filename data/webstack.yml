@@ -345,6 +345,12 @@
           url: https://xuzhougeng.top/
           logo: 徐洲更.jpg
           description: 中科院博士，编程技术爱好者。
+    - term: 教育平台
+      links:
+        - title: 广州安全教育平台
+          url: https://guangzhou.xueanquan.com/
+          logo: 安全教育平台.jpg
+          description: 广州市学校安全教育平台。
     - term: 书籍文档
       links:
         - title: 微信读书
