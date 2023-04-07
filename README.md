@@ -21,10 +21,10 @@ $ git pull https://github.com/shenweiyan/WebStack-Hugo.git
 
 1. 发布至 GitHub 的 **[NavBioIT](https://github.com/shenweiyan/NavBioIT)**，该仓库 gh-pages 分支与 Cloudflare 的 **[bioit.pages.dev](https://bioit.pages.dev)** 进行绑定；同时可通过以下自定义域名访问；
 
-   - **[https://nav.bioitee.com](https://nav.bioitee.com)**
+   - **[https://bioit.top](https://bioit.top)**
 
 2. 发布至 GitHub 的 **[WebStackBioIT](https://github.com/shenweiyan/WebStackBioIT)**，该仓库 master 分支与 Cloudflare 的 **[biox.pages.dev](https://biox.pages.dev/)** 进行绑定；
 
 ### 站点地址
 
-- **[https://nav.bioitee.com](https://nav.bioitee.com)**
+- **[https://bioit.top](https://bioit.top)**
