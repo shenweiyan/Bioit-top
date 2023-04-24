@@ -456,6 +456,14 @@
           logo: AlmaLinux.png
           url: https://almalinux.org/
           description: AlmaLinux OS.
+        - title: Openbiox
+          logo: openbiox.jpg
+          url: https://openbiox.org/
+          description: 生物信息学开源社区。
+        - title: 开源之夏
+          logo: 开源之夏.svg
+          url: https://summer-ospp.ac.cn/
+          description: 中科院软件所发起并长期支持的一项暑期开源活动。
     - term: 生信论坛
       links:
         - title: Biostars
