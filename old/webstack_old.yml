@@ -7,22 +7,82 @@
       logo: ""
       url: https://bioitee.com
       qrcode: assets/images/logos/qrcode.jpg
-      description: 奕达科技工作室
- 
- 
-- taxonomy: AI辅助工具
-  icon: fas fa-user-astronaut
-  links: 
-    - title: 智能聊天机器人
-      logo: ""
-      url: https://www.daxyuxfa.top/
-      description: 愿成为你的陪伴
+      description: BioIT 爱好者！
+    - title: 语雀
+      logo: 语雀.jpg
+      url: https://www.yuque.com/
+      description: 专业的云端知识库。
+    - title: QQ 邮箱
+      logo: qq邮箱.png
+      url: http://mail.qq.com/
+      description: 腾讯 QQ 邮箱。
+    - title: 开源中国
+      logo: 开源中国.jpg
+      url: https://www.oschina.net/
+      description: 中文开源技术交流社区。
+    - title: 公众号平台
+      logo: 微信公众号.png
+      url: https://mp.weixin.qq.com/
+      description: 再小的个体也有自己的品牌。
+    - title: CODING
+      logo: coding.png
+      url: https://shenweiyan.coding.net/user/projects
+      description: 个人 CODING 代码托管。
+    - title: GitHub
+      logo: github.jpg
+      url: https://github.com/
+      description: GitHub 开源社区。
+    - title: Md2X 定制版
+      logo: mdx.png
+      url: https://mdx.ncbix.com/
+      description: Markdown 排版利器，Md2All 定制版。
+    - title: 搜狗微信
+      logo: 搜狗微信.jpg
+      url: https://weixin.sogou.com/
+      description: 搜狗微信搜索，一搜即达。
+    - title: 知乎
+      logo: 知乎.png
+      url: https://www.zhihu.com/
+      description: 知乎社区。
+    - title: V2EX
+      logo: v2ex.jpg
+      url: https://www.v2ex.com/
+      description: V2EX 创意工作者的社区。
+    - title: 语雀话题
+      logo: 语雀话题.png
+      url: https://www.yuque.com/shenweiyan/wow
+      description: 好看的皮囊千篇一律，有趣的灵魂万里挑一！
 
 
 - taxonomy: 科研办公
   icon: fas fa-flask fa-lg
   list:
-
+    - term: 生物信息
+      links:
+        - title: NCBI
+          logo: ncbi.jpg
+          url: https://www.ncbi.nlm.nih.gov/
+          description: National Center for Biotechnology Information.
+        - title: Bioconda
+          logo: bioconda.jpg
+          url: https://anaconda.org/bioconda/
+          description: "Bioconda :: Anaconda.org."
+        - title: CPAN
+          logo: cpan.jpg
+          url: https://metacpan.org/
+          description: Search the CPAN.
+        - title: Gitter Galaxy
+          logo: gitter.jpg
+          url: https://gitter.im/galaxyproject
+          description: Galaxy Gitter Community.
+        - title: R Project
+          logo: r-project.jpg
+          url: https://www.r-project.org/
+          description: https://www.r-project.org
+        - title: Bioconductor
+          logo: bioconductor.jpg
+          url: http://www.bioconductor.org/
+          description: http://www.bioconductor.org
     - term: 云服务器
       links:
         - title: 阿里云
