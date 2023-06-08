@@ -315,7 +315,7 @@
           url: https://www.getrevue.co/profile/coldplay-weekly
           logo: 酷玩周刊.png
           description: 发掘一切有趣的数字生活。
-        - title: 混沌周
+        - title: 混沌周刊
           url: https://weekly.love/
           logo: 混沌周刊.png
           description: 有关科技，有关开发，有关生活。
@@ -323,6 +323,10 @@
           url: https://weekly.caixin.com/
           logo: 财新周刊.png
           description: 财新网周刊，财新网为原创财经新媒体。
+        - title: 偷懒爱好者周刊
+          url: https://toolight.zhubai.love/
+          logo: zhubai.webp
+          description: 偷懒爱好者周刊，分享产品、工具、新鲜事，每周三发布。
     - term: 博客站点
       links:
         - title: 酷壳
