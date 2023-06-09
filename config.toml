@@ -14,17 +14,17 @@ publishDir            = "public"
     about         = "https://www.yuque.com/shenweiyan/cookbook/webstack-hugo"	# 左侧导航栏的"关于我们"页面(./about)
     repository    = "https://github.com/shenweiyan/WebStack-Hugo"	
     enablePreLoad = true                                                        # 网站完全打开前预加载动画
-    textPreLoad   = "Hugo 网址导航"	                                	# 预加载的动画文字, 只有当enablePreLoad=true时生效
+    textPreLoad   = "Hugo 网址导航"                                              # 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = false                                                       # 默认展开左侧边导航栏
-    logosPath     = "https://shub-1251708715.cos.ap-guangzhou.myqcloud.com/webstack/logos"	                # 网站每个导航地址logo存放地址
-    defaultLogo   = "https://shub-1251708715.cos.ap-guangzhou.myqcloud.com/webstack/logos/default.webp"    # logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
-    nightMode     = false							# 默认站点为深色(夜间)模式
-    yiyan         = true                                        		# 默认启用一言服务
+    logosPath     = "https://static.bioitee.com/webstack/logos"	                # 网站每个导航地址logo存放地址
+    defaultLogo   = "https://static.bioitee.com/webstack/logos/default.webp"    # logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
+    nightMode     = false							                            # 默认站点为深色(夜间)模式
+    yiyan         = true                                        		        # 默认启用一言服务
 
 [params.seo]
     baiduhmid       = 'a65c08a1c6ad31ab8162591e3c4b2fc1'             		# 百度统计 hm.src 的 ID
     baiduSiteVer    = 'codeva-cCAOSG8MBO'                            		# 百度HTML标签验证(baidu-site-verification)    
-    tj51laid        = ''                                        		# 51.LA 网站统计
+    tj51laid        = ''                                        		    # 51.LA 网站统计
     tj51lack        = ''
     GoogleAdsClient = 'ca-pub-9356811841483300'
 
@@ -32,13 +32,13 @@ publishDir            = "public"
     key = "085791e805a24491b43b06cf58ab31e7"
 
 [params.images]
-    favicon           = "https://shub-1251708715.cos.ap-guangzhou.myqcloud.com/webstack/sites/favicon.png"
-    searchImageL      = "https://shub-1251708715.cos.ap-guangzhou.myqcloud.com/webstack/banner/bg-dna.jpg"		  # 搜索部分浅色背景图
-    searchImageD      = "https://shub-1251708715.cos.ap-guangzhou.myqcloud.com/webstack/banner/bg-dna.jpg"		  # 搜索部分深色背景图
-    logoExpandLight   = "https://shub-1251708715.cos.ap-guangzhou.myqcloud.com/webstack/sites/bt8-expand-light.png"
-    logoExpandDark    = "https://shub-1251708715.cos.ap-guangzhou.myqcloud.com/webstack/sites/bt8-expand-dark.png"
-    logoCollapseLight = "https://shub-1251708715.cos.ap-guangzhou.myqcloud.com/webstack/sites/bt.png"
-    logoCollapseDark  = "https://shub-1251708715.cos.ap-guangzhou.myqcloud.com/webstack/sites/bt.png"
+    favicon           = "https://static.bioitee.com/webstack/sites/favicon.png"
+    searchImageL      = "https://static.bioitee.com/webstack/banner/bg-dna.jpg"		  # 搜索部分浅色背景图
+    searchImageD      = "https://static.bioitee.com/webstack/banner/bg-dna.jpg"		  # 搜索部分深色背景图
+    logoExpandLight   = "https://static.bioitee.com/webstack/sites/bt8-expand-light.png"
+    logoExpandDark    = "https://static.bioitee.com/webstack/sites/bt8-expand-dark.png"
+    logoCollapseLight = "https://static.bioitee.com/webstack/sites/bt.png"
+    logoCollapseDark  = "https://static.bioitee.com/webstack/sites/bt.png"
 
 [markup.goldmark.renderer]
     unsafe = true
