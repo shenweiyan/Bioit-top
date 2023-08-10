@@ -16,5 +16,7 @@
   list:
     - name: 教程
       url: "https://www.yuque.com/shenweiyan/cookbook/webstack-hugo"
-    - name: 源码
+    - name: 主题
       url: "https://github.com/shenweiyan/WebStack-Hugo"
+    - name: 源码
+      url: https://github.com/shenweiyan/NavBioIT
