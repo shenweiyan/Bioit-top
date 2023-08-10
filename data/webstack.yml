@@ -3,14 +3,18 @@
 - taxonomy: 作者站点
   icon: fas fa-medal
   links:
-    - title: 云端知识库
+    - title: 语雀
       logo: octocat.png
-      url: https://shumlab.com
-      description: 沈维燕的语雀知识库，主力平台。
-    - title: 博客站点
+      url: https://www.yuque.com/shenweiyan
+      description: 个人语雀知识库。
+    - title: 知识花园
       logo: octocat.png
-      url: https://www.shumlab.com
-      description: 沈维燕个人博客站点，备用站点。
+      url: https://doc.weiyan.cc
+      description: 基于 MkDocs Material 个人站点。
+    - title: 博客
+      logo: octocat.png
+      url: https://blog.weiyan.cc/
+      description: 个人 ICS-Hugo-Theme 博客。
     - title: BioIT 爱好者
       logo: octocat.png
       url: https://www.bioitee.com/
