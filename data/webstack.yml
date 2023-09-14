@@ -98,6 +98,10 @@
           logo: gitlab.webp
           url: https://gitlab.com/
           description: The One DevOps Platform.
+        - title: AtomGit
+          logo: atom.png
+          url: https://atomgit.com/
+          description: 开放原子开源基金会提供的代码托管平台。
           
 - taxonomy: 工作职场
   icon: fas fa-briefcase fa-lg
