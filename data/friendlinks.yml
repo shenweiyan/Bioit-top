@@ -1,9 +1,6 @@
-- title: 生信导航
-  url: https://bioit.top/
+- title: 生信网址导航
+  url: https://hao.bioitee.com/
   description: 将重点资源整理成一个生信导航网页。
-- title: 维燕博客
-  url: https://www.shumlab.com/
-  description: 作者的个人博客
 - title: Md2X Editor
   url: https://mdx.bioitee.com/
   description: 一个专注于解决微信公众号 Markdown 排版的平台。
