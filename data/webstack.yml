@@ -4,13 +4,13 @@
   icon: fas fa-medal
   links:
     - title: 语雀
-      logo: octocat.png
+      logo: 语雀.webp
       url: https://www.yuque.com/shenweiyan
-      description: 个人语雀知识库。
+      description: 章鱼猫先生的语雀知识库。
     - title: Knowledge-Garden
       logo: garden.webp
       url: https://github.com/shenweiyan/Knowledge-Garden/
-      description: All in Discussions.
+      description: All in GitHub Discussions.
     - title: 知识花园
       logo: octocat.png
       url: https://doc.weiyan.cc
