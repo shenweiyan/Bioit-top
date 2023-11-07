@@ -7,6 +7,10 @@
       logo: octocat.png
       url: https://www.yuque.com/shenweiyan
       description: 个人语雀知识库。
+    - title: Knowledge-Garden
+      logo: garden.webp
+      url: https://github.com/shenweiyan/Knowledge-Garden/
+      description: All in Discussions.
     - title: 知识花园
       logo: octocat.png
       url: https://doc.weiyan.cc
@@ -14,19 +18,15 @@
     - title: 博客
       logo: octocat.png
       url: https://blog.weiyan.cc/
-      description: 个人 ICS-Hugo-Theme 博客。
+      description: 基于 ICS-Hugo-Theme 博客站点。
     - title: BioIT 爱好者
       logo: octocat.png
       url: https://www.bioitee.com/
       description: BioIT 爱好者主页。
-    - title: Md2X Editor
+    - title: Markdown2Html
       logo: mdx.png
-      url: https://mdx.bioitee.com/
-      description: 公众号 Markdown 排版利器，国外部署。
-    - title: 联系我们
-      logo: 语雀话题.png
-      url: https://www.yuque.com/shenweiyan/wow
-      description: 语雀话题：有趣的灵魂。
+      url: https://md.bioitee.com/
+      description: 公众号 Markdown 排版利器。
     - title: Lark 云文档
       logo: lark_suite.webp
       url: https://shenweiyan.sg.larksuite.com/
