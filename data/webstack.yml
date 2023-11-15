@@ -68,10 +68,10 @@
       logo: 知乎.png
       url: https://www.zhihu.com/
       description: 知乎社区。
-    - title: 虎扑社区
-      url: https://bbs.hupu.com/
-      logo: 虎扑.png
-      description: 以体育赛事和日常生活为主的专业直文化社区。
+    - title: ChatGPT
+      url: https://chat.openai.com/
+      logo: chatgpt.webp
+      description: chat.openai.com
     - title: V2EX
       logo: v2ex.jpg
       url: https://www.v2ex.com/
@@ -558,6 +558,10 @@
           description: 一个旨在推广与应用统计学知识的网站和社区。
     - term: 其他平台
       links:
+        - title: 虎扑社区
+          url: https://bbs.hupu.com/
+          logo: 虎扑.png
+          description: 以体育赛事和日常生活为主的专业直文化社区。
         - title: 中羽在线社区
           logo: 中羽.png
           url: https://bbs.badmintoncn.com/portal.php
