@@ -86,10 +86,10 @@
           logo: github.png
           url: https://github.com/
           description: GitHub 开源社区。
-        - title: 极狐
-          logo: gitlab.webp
-          url: https://jihulab.com/
-          description: GitLab 极狐版 (JH)。
+        - title: GitCode
+          logo: gitcode.png
+          url: https://gitcode.com/
+          description: 开发者的代码家园。
         - title: 码云
           logo: gitee.webp
           url: https://gitee.com/
@@ -98,6 +98,14 @@
           logo: coding.png
           url: https://coding.net/
           description: 一站式软件研发管理平台。
+        - title: 阿里云效
+          logo: codeup.svg
+          url: https://codeup.aliyun.com/
+          description: 企业级代码管理平台。
+        - title: 极狐
+          logo: gitlab.webp
+          url: https://jihulab.com/
+          description: GitLab 极狐版 (JH)。
         - title: GitLab
           logo: gitlab.webp
           url: https://gitlab.com/
@@ -106,6 +114,14 @@
           logo: atom.png
           url: https://atomgit.com/
           description: 开放原子开源基金会提供的代码托管平台。
+        - title: Gitea
+          logo: gitea.svg
+          url: https://gitea.com/
+          description: Git with a cup of tea!
+        - title: Framagit
+          logo: framagit.svg
+          url: https://framagit.org
+          description: 基于 GitLab 的法国公司，站点在德国。
           
 - taxonomy: 工作职场
   icon: fas fa-briefcase fa-lg
