@@ -1,4 +1,4 @@
-name: PushGiteeCoding
+name: Push code
 
 on:
   push:
