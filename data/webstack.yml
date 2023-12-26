@@ -448,6 +448,10 @@
           logo: 电影天堂.png
           url: https://www.dygod.net/
           description: 电影天堂（DYGOD），高清电影下载。
+        - title: PAN99
+          logo: pan99.webp
+          url: https://pan99.xyz/
+          description: 阿里云盘资源分享-Netflix影视网盘。
     - term: 游戏竞技
       links:
         - title: 台服战地
