@@ -210,10 +210,10 @@
           logo: cpan.jpg
           url: https://metacpan.org/
           description: Search the CPAN.
-        - title: Gitter Galaxy
+        - title: Galaxy 即时聊天
           logo: gitter.jpg
-          url: https://gitter.im/galaxyproject
-          description: Galaxy Gitter Community.
+          url: https://app.element.io/#/room/#galaxyproject:matrix.org
+          description: Galaxy Chat on Matrix.
         - title: Galaxy Main
           logo: galaxy_project.png
           url: https://usegalaxy.org/
