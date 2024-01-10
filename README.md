@@ -20,9 +20,7 @@ $ git pull https://github.com/shenweiyan/WebStack-Hugo.git
 
 发布至 GitHub 的 **[NavBioIT](https://github.com/shenweiyan/NavBioIT)** 的 [gh-pages](https://github.com/shenweiyan/NavBioIT/tree/gh-pages) 分支：
 
-- [gh-pages](https://github.com/shenweiyan/NavBioIT/tree/gh-pages) 分支部署至 [Netlify](https://app.netlify.com/)，同时绑定以下域名：
-  - [https://bioit.top](https://bioit.top)：**国内访问相对快一些！**
+- [gh-pages](https://github.com/shenweiyan/NavBioIT/tree/gh-pages) 分支部署至 [Netlify](https://app.netlify.com/)，同时绑定 [https://bioit.top](https://bioit.top)，**国内访问相对快一些！**
 
-- [gh-pages](https://github.com/shenweiyan/NavBioIT/tree/gh-pages) 分支部署至 [Cloudflare Pages](https://pages.cloudflare.com/)，同时绑定以下域名：
-  - [https://nav.bioit.top](https://nav.bioit.top)：**国内访问可能有一定延迟。**
+- [gh-pages](https://github.com/shenweiyan/NavBioIT/tree/gh-pages) 分支部署至 [Cloudflare Pages](https://pages.cloudflare.com/)，同时绑定 [https://nav.bioit.top](https://nav.bioit.top)，**国内访问可能有一定延迟。**
 
