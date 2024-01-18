@@ -11,10 +11,10 @@ publishDir            = "public"
     author        = "shenweiyan"
     description   = "WebStack-Hugo 网址导航主题 | Bio IT 爱好者"
     upload        = "https://www.yuque.com/forms/share/1a1fee15-f7a9-4ee6-9dd4-b0ba9fef1871"
-    about         = "https://www.yuque.com/shenweiyan/cookbook/webstack-hugo"	# 左侧导航栏的"关于我们"页面(./about)
+    about         = "https://www.weiyan.cc/cookbook/%E5%BC%80%E5%8F%91%E8%BF%90%E7%BB%B4/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/2021-07-16-webstack-hugo/"	# 左侧导航栏的"关于我们"页面(./about)
     repository    = "https://github.com/shenweiyan/WebStack-Hugo"	
     enablePreLoad = true                                                        # 网站完全打开前预加载动画
-    textPreLoad   = "Hugo 网址导航"                                              # 预加载的动画文字, 只有当enablePreLoad=true时生效
+    textPreLoad   = "Hugo 网址导航"                                             # 预加载的动画文字, 只有当enablePreLoad=true时生效
     expandSidebar = false                                                       # 默认展开左侧边导航栏
     logosPath     = "https://static.bioitee.com/webstack/logos"	                # 网站每个导航地址logo存放地址
     defaultLogo   = "https://static.bioitee.com/webstack/logos/default.webp"    # logo图片资源不存在或者错误时, 默认显示的logo; 该参数如为空,将会一直加载对应的logo,直至成功
@@ -44,4 +44,4 @@ publishDir            = "public"
     unsafe = true
 
 [params.footer]
-    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：<a href="mailto:shumlab@foxmail.com?subject=BioIT网址导航意见反馈" target="_blank">shumlab@foxmail.com</a> <br/>&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [Bio IT 爱好者](https://www.bioitee.com/) | [粤ICP备16023717号](http://beian.miit.gov.cn/)<br/>Powered by [Netlify](https://app.netlify.com/)'
+    copyright = '本站内容源自互联网，如有内容侵犯了你的权益，请联系删除相关内容，联系邮箱：<a href="mailto:shen@weiyan.tech?subject=BioIT网址导航意见反馈" target="_blank">shen@weiyan.tech</a> <br/>&copy; 2021 - {year} By [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) | [Bio IT 爱好者](https://www.bioitee.com/) | [粤ICP备16023717号](http://beian.miit.gov.cn/)<br/>Powered by [Netlify](https://app.netlify.com/)'
