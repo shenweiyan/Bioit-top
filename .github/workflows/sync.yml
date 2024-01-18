@@ -1,4 +1,4 @@
-name: Push code
+name: code-sync
 
 on:
   push:
@@ -38,17 +38,26 @@ jobs:
           CODING_USERNAME: ${{ secrets.CODING_USERNAME }}
           CODING_PASSWORD: ${{ secrets.CODING_PASSWORD }}
           
-      - name: Push to Gitee
+      - name: Push to Gitee 
+        uses: Yikun/hub-mirror-action@master
+        with:
+          src: github/shenweiyan
+          dst: gitee/shenweiyan
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          dst_token: ${{ secrets.GITEE_TOKEN }}
+          static_list: "NavBioIT"
+          force_update: true
+          timeout: '0.5h'
+
+      - name: Push to GitCode
         run: |
-          #echo "stop!"
-          remote_repo="https://${GITEE_USERNAME}:${GITEE_PASSWORD}@gitee.com/${GITEE_REPOSITORY}.git"
-          git remote add gitee "${remote_repo}"
-          git show-ref # useful for debugging
+          remote_repo="https://shenweiyan:${GITCODE_PAT}@gitcode.com/${GITCODE_REPOSITORY}.git"
+          git remote add gitcode "${remote_repo}"
+          git show-ref
           git branch --verbose
           # publish all
-          git push --all --force gitee
-          git push --tags --force gitee
+          git push --all --force gitcode
+          git push --tags --force gitcode
         env:
-          GITEE_REPOSITORY: shenweiyan/NavBioIT
-          GITEE_USERNAME: ${{ secrets.GITEE_USERNAME }}
-          GITEE_PASSWORD: ${{ secrets.GITEE_PASSWORD }}
+          GITCODE_REPOSITORY: shenweiyan/NavBioIT
+          GITCODE_PAT: ${{ secrets.GITCODE_PAT }}
