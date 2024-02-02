@@ -122,6 +122,24 @@
           logo: framagit.svg
           url: https://framagit.org
           description: 基于 GitLab 的法国公司，站点在德国。
+    - term: 静态网站
+      links: 
+        - title: Webify
+          logo: 腾讯云.webp
+          url: https://webify.cloudbase.net/
+          description: 专为 Web 开发者打造的应用托管平台。
+        - title: Netlify
+          logo: netlify.webp
+          url: https://app.netlify.com/
+          description: Netlify 组合式 Web 平台。
+        - title: Cloudflare Pages
+          logo: cloudflare-pages.webp
+          url: https://pages.cloudflare.com/
+          description: 前端开发人员协作和部署网站。
+        - title: Vercel
+          logo: vercel.webp
+          url: https://vercel.com/
+          description: 通过前端云构建和部署最佳的 Web 体验。
           
 - taxonomy: 工作职场
   icon: fas fa-briefcase fa-lg
@@ -249,7 +267,7 @@
           url: https://www.aliyun.com/
           description: 上云就上阿里云。
         - title: 腾讯云
-          logo: 腾讯云.jpg
+          logo: 腾讯云.webp
           url: https://cloud.tencent.com/
           description: 产业智变，云启未来。
         - title: 华为云
