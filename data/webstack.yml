@@ -15,10 +15,6 @@
       logo: octocat.png
       url: https://weiyan.cc
       description: 基于 MkDocs Material 个人站点。
-    - title: 博客
-      logo: octocat.png
-      url: https://blog.weiyan.cc/
-      description: 基于 ICS-Hugo-Theme 博客站点。
     - title: BioIT 爱好者
       logo: octocat.png
       url: https://www.bioitee.com/
