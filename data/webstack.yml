@@ -352,23 +352,23 @@
         - title: 偷懒爱好者周刊
           url: https://toolight.zhubai.love/
           logo: zhubai.webp
-          description: 偷懒爱好者周刊，分享产品、工具、新鲜事，每周三发布。
-	- title: 老胡的信息周刊
-	  url: https://weekly.howie6879.com/
-	  logo: howie.webp
-	  description: 记录老胡每周看到的优质资源，包含项目、软件、资料、网站。
-	- title: Python 潮流周刊
-	  url: https://pythoncat.top/
-	  logo: pythoncat.webp
-	  description: '豌豆花下猫，Python 编程。'
-	- title: 二丫讲梵
-	  url: https://wiki.eryajf.net/
-	  logo: eryajf.webp
-	  description: '运维技术和 Go 语言周边为主，辅以 GitHub 上优秀项目或他人优秀经验。'
-	- title: '1Link.Fun'
-	  url: https://1link.fun/blog/
-	  logo: 1linkfun.webp
-	  description: '一个分享有趣科技新闻, 实用工具网站, 消磨时间利器的互联网杂志。'
+          description: '偷懒爱好者周刊，分享产品、工具、新鲜事，每周三发布。'
+        - title: 老胡的信息周刊
+          url: https://weekly.howie6879.com/
+          logo: howie.webp
+          description: 记录老胡每周看到的优质资源，包含项目、软件、资料、网站。
+        - title: Python 潮流周刊
+          url: https://pythoncat.top/
+          logo: pythoncat.webp
+          description: '豌豆花下猫，Python 编程。'
+        - title: 二丫讲梵
+          url: https://wiki.eryajf.net/
+          logo: eryajf.webp
+          description: '运维技术和 Go 语言周边为主，辅以 GitHub 上优秀项目或他人优秀经验。'
+        - title: '1Link.Fun'
+          url: https://1link.fun/blog/
+          logo: 1linkfun.webp
+          description: '一个分享有趣科技新闻, 实用工具网站, 消磨时间利器的互联网杂志。'
     - term: 博客站点
       links:
         - title: 酷壳

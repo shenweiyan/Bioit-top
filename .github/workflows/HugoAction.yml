@@ -9,7 +9,7 @@ jobs:
   deploy: 
     runs-on: ubuntu-20.04	        # 在什么环境运行任务
     steps:
-      - uses: actions/checkout@v3       # 引用actions/checkout这个action，与所在的github仓库同名
+      - uses: actions/checkout@v4       # 引用actions/checkout这个action，与所在的github仓库同名
         with:
          submodules: true               # Fetch Hugo themes (true OR recursive) 获取submodule主题
          fetch-depth: 0                 # Fetch all history for .GitInfo and .Lastmod
