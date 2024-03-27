@@ -14,6 +14,10 @@ $ cd themes/WebStack-Hugo
 $ git pull https://github.com/shenweiyan/WebStack-Hugo.git
 ```
 
+### 静态资源
+
+本站点的所有静态资源，包括导航站点 logo 图片等均已开源，详情请参考 [shenweiyan/WebStackRES](https://github.com/shenweiyan/WebStackRES)。
+
 ### 发布站点
 
 通过 GitHub Actions - [HugoAction.yml](https://github.com/shenweiyan/NavBioIT/blob/main/.github/workflows/HugoAction.yml)，本源码执行自动构建，并发布到以下仓库。
