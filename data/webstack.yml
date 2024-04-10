@@ -371,6 +371,10 @@
           description: '一个分享有趣科技新闻, 实用工具网站, 消磨时间利器的互联网杂志。'
     - term: 博客站点
       links:
+        - title: 博友圈
+          logo: boyouquan.webp
+          url: https://www.boyouquan.com/
+          description: 博客人的朋友圈。
         - title: 酷壳
           url: https://www.coolshell.cn/
           logo: coolshell.webp
