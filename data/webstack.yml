@@ -82,6 +82,10 @@
           logo: github.png
           url: https://github.com/
           description: GitHub 开源社区。
+        - title: Codeberg
+          logo: codeberg.webp
+          url: https://codeberg.org/
+          description: "基于 Forgejo，(欧盟)德国开发者维护的托管平台。"
         - title: GitCode
           logo: gitcode.png
           url: https://gitcode.com/
