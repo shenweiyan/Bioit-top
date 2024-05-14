@@ -23,10 +23,10 @@ jobs:
         #run: hugo --minify	# 使用 hugo 构建静态网页
         run: hugo         	# 使用 hugo 构建静态网页
 
-      - name: Deploy To NavBioIT                        # 部署至当前仓库的其他分支
+      - name: Deploy To Bioit-top                       # 部署至当前仓库的其他分支
         uses: peaceiris/actions-gh-pages@v3             # 一个自动发布github pages的action
         with:
-          external_repository: shenweiyan/NavBioIT	# 发布到哪个repo
+          external_repository: shenweiyan/Bioit-top	# 发布到哪个repo
           #1. 创建 Personal_Access_Token：
           #   GitHub 个人账号 -> Settings -> Developer settings -> Personal access tokens ->  Tokens (classic) -> New personal access token (classic)
           #   - Expiration: No expiration
@@ -39,4 +39,5 @@ jobs:
           #发布到哪个branch
           publish_branch: gh-pages
           force_orphan: true
+          cname: gh-pages.bioit.top
           full_commit_message: ${{ github.event.head_commit.message }}
