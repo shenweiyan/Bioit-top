@@ -472,12 +472,16 @@
           description: "www.dygod.org。"
     - term: 游戏竞技
       links:
-        - title: 台服战地
-          logo: 战地之王.png
+        - title: 战地之王（龙龙网）
+          logo: ava.webp
+          url: http://ava.llwl.cn/
+          description: 龙龙网络 AVA 战地之王。
+        - title: 战地之王（台服）
+          logo: ava.webp
           url: https://ava.mangot5.com/ava/index
           description: 台服 AVA 战地之王。
         - title: 战地之王（国际服）
-          logo: 战地之王.png
+          logo: ava.webp
           url: https://avaonline.global/
           description: The official A.V.A Global.
         - title: Steam
