@@ -411,10 +411,18 @@
           url: https://weread.qq.com/
           logo: 微信读书.jpg
           description: 微信读书电脑版。
+        - title: 'Neat Reader'
+          url: https://www.neat-reader.cn/
+          logo: neat-reader.jpg
+          description: 新世代 ePub/Txt 阅读器。
         - title: 书栈网
           url: https://www.bookstack.cn/
           logo: 书栈网.jpg
           description: IT 互联网开源编程书籍免费阅读与下载。
+        - title: 'Qi Reader'
+          url: https://www.qireader.com/
+          logo: qireader.png
+          description: 优雅的在线 RSS 阅读器。
     - term: 视频教程
       links:
         - title: Photoshop Lady
@@ -492,6 +500,32 @@
 - taxonomy: 社区论坛
   icon: fas fa fa-comments
   list:
+    - term: 社交娱乐
+      links:
+        - title: 虎扑社区
+          url: https://bbs.hupu.com/
+          logo: 虎扑.png
+          description: 以体育赛事和日常生活为主的专业直文化社区。
+        - title: 中羽在线社区
+          logo: 中羽.png
+          url: https://bbs.badmintoncn.com/portal.php
+          description: 中羽在线社区-羽毛球友都在这！
+        - title: 百度贴吧
+          logo: 百度贴吧.jpg
+          url: https://tieba.baidu.com/index.html
+          description: 百度贴吧。
+        - title: 豆瓣
+          logo: 豆瓣.jpg
+          url: https://www.douban.com/
+          description: 豆瓣社区。
+        - title: Facebook
+          logo: facebook.png
+          url: https://www.facebook.com/
+          description: Facebook
+        - title: NGA 玩家社区
+          url: https://bbs.nga.cn/
+          logo: nga.png
+          description: 国内专业的游戏玩家社区。
     - term: 开源社区
       links:
         - title: openEuler
@@ -533,9 +567,14 @@
           logo: 生信技能树.jpg
           description: 帮助每一位生信人构建最完善的生信技能树。
         - title: BioLinkX
-          url: https://biolinkx.cn/
+          url: https://www.yuque.com/biolinkx
           logo: biolinks.png
           description: BioLinkX 生物信息学协会。
+        - title: BioAnno
+          url: https://bioanno.com/
+          logo: bioanno.jpg
+          description: TBtools 技能易物社区。
+          
     - term: 技术社区
       links:
         - title: 开源中国
@@ -598,32 +637,6 @@
           url: https://cosx.org/
           logo: 统计之都.png
           description: 一个旨在推广与应用统计学知识的网站和社区。
-    - term: 其他平台
-      links:
-        - title: 虎扑社区
-          url: https://bbs.hupu.com/
-          logo: 虎扑.png
-          description: 以体育赛事和日常生活为主的专业直文化社区。
-        - title: 中羽在线社区
-          logo: 中羽.png
-          url: https://bbs.badmintoncn.com/portal.php
-          description: 中羽在线社区-羽毛球友都在这！
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: https://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 豆瓣
-          logo: 豆瓣.jpg
-          url: https://www.douban.com/
-          description: 豆瓣社区。
-        - title: Facebook
-          logo: facebook.png
-          url: https://www.facebook.com/
-          description: Facebook
-        - title: NGA 玩家社区
-          url: https://bbs.nga.cn/
-          logo: nga.png
-          description: 国内专业的游戏玩家社区。
 
 - taxonomy: 工具集合
   icon: fas fa-tools fa-lg
