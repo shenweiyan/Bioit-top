@@ -16,7 +16,7 @@ $ git pull https://github.com/shenweiyan/WebStack-Hugo.git
 
 ### 静态资源
 
-本站点的所有静态资源，包括导航站点 logo 图片等均已开源，详情请参考 [shenweiyan/WebStackRES](https://github.com/shenweiyan/WebStackRES)。
+本站点的所有静态资源，包括导航站点 logo 图片等均已开源，详情请参考 [shenweiyan/WebStack-Assets](https://github.com/shenweiyan/WebStack-Assets)。
 
 ### 发布站点
 
