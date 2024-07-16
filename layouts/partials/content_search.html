@@ -5,8 +5,8 @@
                 <div class="s-type text-center">
                     <div class="s-type-list big">
                         <div class="anchor" style="position: absolute; left: 50%; opacity: 0;"></div>
-                        <label for="type-website"   data-id="group-a"><span>常用</span></label>
-                        <label for="type-baidu1"  data-id="group-b"><span>搜索</span></label>
+                        <label for="type-bing"   data-id="group-a"><span>常用</span></label>
+                        <label for="type-bing1"  data-id="group-b"><span>搜索</span></label>
                         <label for="type-whois"   data-id="group-c"><span>工具</span></label>
                         <label for="type-zhihu"   data-id="group-d"><span>社区</span></label>
                         <label for="type-taobao1" data-id="group-e"><span>生活</span></label>
@@ -30,17 +30,17 @@
                                 data-placeholder="搜索 WeiYan.CC">
                             <label for="type-website"><span class="text-muted">知识</span></label>
                         </li>
+			<li><input hidden="" type="radio" name="type"
+                                id="type-bing"
+                                value="https://cn.bing.com/search?q=" 
+                                data-placeholder="微软 Bing 搜索">
+			    <label for="type-bing"><span class="text-muted">必应</span></label>
+                        </li>
 		        <li><input hidden="" type="radio" name="type"
                                 id="type-baidu"
                                 value="https://www.baidu.com/s?wd=" 
                                 data-placeholder="百度一下，你就知道">
                             <label for="type-baidu"><span class="text-muted">百度</span></label>
-                        </li>
-                        <li><input hidden="" type="radio" name="type"
-                                id="type-bing"
-                                value="https://cn.bing.com/search?q=" 
-                                data-placeholder="微软 Bing 搜索">
-			    <label for="type-bing"><span class="text-muted">必应</span></label>
                         </li>
                         <li><input hidden="" type="radio" name="type" 
                                 id="type-google"
@@ -57,6 +57,12 @@
                 </div>
                 <div class="search-group group-b">
                     <ul class="search-type">
+			<li><input hidden="" type="radio" name="type" 
+                                id="type-bing1"
+                                value="https://cn.bing.com/search?q=" 
+                                data-placeholder="微软 Bing 搜索">
+                            <label for="type-bing1"><span class="text-muted">必应</span></label>
+                        </li>
                         <li><input hidden="" type="radio" name="type" 
                                 id="type-baidu1"
                                 value="https://www.baidu.com/s?wd=" 
@@ -80,12 +86,6 @@
                                 value="https://www.sogou.com/web?query=" 
                                 data-placeholder="搜狗搜索"> 
                             <label for="type-sogo"><span class="text-muted">搜狗</span></label>
-                        </li>
-                        <li><input hidden="" type="radio" name="type" 
-                                id="type-bing1"
-                                value="https://cn.bing.com/search?q=" 
-                                data-placeholder="微软 Bing 搜索">
-                            <label for="type-bing1"><span class="text-muted">必应</span></label>
                         </li>
                         <li><input hidden="" type="radio" name="type" 
                                 id="type-sm"
