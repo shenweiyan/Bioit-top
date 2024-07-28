@@ -450,6 +450,10 @@
           logo: 腾讯视频.png
           url: http://v.qq.com/
           description: 腾讯视频，海量视频在线观看。
+        - title: 咪咕视频
+          logo: m/miguvideo.jpg
+          url: https://www.miguvideo.com/
+          description: 在线视频播放平台。
         - title: 抖音
           logo: 抖音.png
           url: https://www.douyin.com/
