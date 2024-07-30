@@ -64,6 +64,10 @@
       logo: 知乎.png
       url: https://www.zhihu.com/
       description: 知乎社区。
+    - title: 文心一言
+      url: https://yiyan.baidu.com/
+      logo: y/yiyan-baidu-com.webp
+      description: yiyan.baidu.com
     - title: ChatGPT
       url: https://chat.openai.com/
       logo: chatgpt.webp
