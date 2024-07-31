@@ -83,7 +83,7 @@
     - term: 代码托管
       links:
         - title: GitHub
-          logo: github.png
+          logo: g/github.webp
           url: https://github.com/
           description: GitHub 开源社区。
         - title: Codeberg
@@ -129,7 +129,7 @@
     - term: 静态网站
       links: 
         - title: Webify
-          logo: 腾讯云.webp
+          logo: c/cloud-tencent.webp
           url: https://webify.cloudbase.net/
           description: 专为 Web 开发者打造的应用托管平台。
         - title: Netlify
@@ -271,7 +271,7 @@
           url: https://www.aliyun.com/
           description: 上云就上阿里云。
         - title: 腾讯云
-          logo: 腾讯云.webp
+          logo: c/cloud-tencent.webp
           url: https://cloud.tencent.com/
           description: 产业智变，云启未来。
         - title: 华为云
