@@ -217,7 +217,7 @@
     - term: 在线科研
       links:
         - title: NCBI
-          logo: ncbi.jpg
+          logo: n/ncbi.webp
           url: https://www.ncbi.nlm.nih.gov/
           description: National Center for Biotechnology Information.
         - title: NCBI BLAST
