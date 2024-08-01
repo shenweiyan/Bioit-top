@@ -175,7 +175,7 @@
           url: https://mail.google.com/
           description: 谷歌 Gmail 邮箱。
         - title: Outlook
-          logo: o/outlook.jpg
+          logo: o/outlook.webp
           url: https://outlook.live.com/
           description: Free personal email and calendar from Microsoft.
     - term: 在线翻译
@@ -375,7 +375,7 @@
           description: '运维技术和 Go 语言周边为主，辅以 GitHub 上优秀项目或他人优秀经验。'
         - title: '1Link.Fun'
           url: https://1link.fun/blog/
-          logo: 1linkfun.webp
+          logo: 1/1linkfun.webp
           description: '一个分享有趣科技新闻, 实用工具网站, 消磨时间利器的互联网杂志。'
     - term: 博客站点
       links:
