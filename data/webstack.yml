@@ -631,7 +631,7 @@
           description: 最好的软件论坛。
         - title: Inoreader
           url: https://www.inoreader.com/
-          logo: i/inoreader.jpg
+          logo: i/inoreader.png
           description: 重新掌控你的新闻订阅源。
         - title: Hacker News
           url: https://news.ycombinator.com/
