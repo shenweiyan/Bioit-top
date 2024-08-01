@@ -479,11 +479,11 @@
           url: https://y.qq.com/
           description: QQ 音乐，在线听歌。
         - title: 网易云音乐
-          logo: 网易云音乐.jpg
+          logo: m/music-163.png
           url: https://music.163.com/
           description: 163 网易云音乐。
         - title: 电影天堂
-          logo: 电影天堂.png
+          logo: d/dygod.png
           url: https://www.dygod.org/
           description: "www.dygod.org。"
     - term: 游戏竞技
@@ -532,74 +532,74 @@
           description: Facebook
         - title: NGA 玩家社区
           url: https://bbs.nga.cn/
-          logo: nga-bbs.png
+          logo: n/nga-bbs.png
           description: 国内专业的游戏玩家社区。
     - term: 开源社区
       links:
         - title: openEuler
-          logo: openeuler.jpg
+          logo: o/openeuler.png
           url: https://www.openeuler.org/
           description: 欧拉 openEuler 社区。
         - title: OpenAnolis
-          logo: openanolis.jpg
+          logo: o/openanolis.png
           url: https://openanolis.cn/
           description: 龙蜥 OpenAnolis 社区。
         - title: Rocky Linux
-          logo: rockylinux.png
+          logo: r/rockylinux.png
           url: https://rockylinux.org/
           description: Rocky Linux OS。
         - title: AlmaLinux
-          logo: AlmaLinux.png
+          logo: a/almalinux.png
           url: https://almalinux.org/
           description: AlmaLinux OS.
         - title: Openbiox
-          logo: openbiox.jpg
+          logo: o/openbiox.jpg
           url: https://openbiox.org/
           description: 生物信息学开源社区。
         - title: 开源之夏
-          logo: 开源之夏.svg
+          logo: s/summer-ospp.svg
           url: https://summer-ospp.ac.cn/
           description: 中科院软件所发起并长期支持的一项暑期开源活动。
     - term: 生信论坛
       links:
         - title: Biostars
           url: https://www.biostars.org/
-          logo: biostars.png
+          logo: b/biostars.png
           description: Bioinformatics Answers.
         - title: OmicShare Forum
           url: https://www.omicshare.com/forum/forum.php
-          logo: 基迪奥.png
+          logo: o/omicshare-forum.png
           description: 广州基迪奥生物信息论坛。
         - title: 生信技能树
           url: http://www.biotrainee.com/
-          logo: 生信技能树.jpg
+          logo: b/biotrainee.jpg
           description: 帮助每一位生信人构建最完善的生信技能树。
         - title: BioLinkX
           url: https://www.yuque.com/biolinkx
-          logo: biolinks.png
+          logo: b/biolinks.png
           description: BioLinkX 生物信息学协会。
         - title: BioAnno
           url: https://bioanno.com/
-          logo: bioanno.jpg
+          logo: b/bioanno.jpg
           description: TBtools 技能易物社区。
           
     - term: 技术社区
       links:
         - title: 开源中国
           url: https://www.oschina.net/
-          logo: oschina.png
+          logo: o/oschina.webp
           description: 中文开源技术交流社区。
         - title: 'Stack Overflow'
           url: https://stackoverflow.com/
-          logo: stackoverflow.png
+          logo: s/stackoverflow.png
           description: 'Where Developers Learn, Share, & Build Careers.'
         - title: 博客园
-          logo: 博客园.jpg
+          logo: c/cnblogs.jpg
           url: https://www.cnblogs.com/
           description: 开发者的网上家园。
         - title: 简书
           url: https://www.jianshu.com/
-          logo: 简书.png
+          logo: j/jianshu.png
           description: 简书 - 创作你的创作。
         - title: 稀土掘金
           url: https://juejin.cn/
@@ -607,43 +607,43 @@
           description: 掘金 - 代码不止，掘进不停。
         - title: CSDN
           url: https://www.csdn.net/
-          logo: csdn.jpg
+          logo: c/csdn.png
           description: CSDN - 专业开发者社区。
         - title: InfoQ
           url: https://www.infoq.cn/
-          logo: infoq.png
+          logo: i/infoq.png
           description: 旨在促进软件开发领域知识与创新的传播。
         - title: SegmentFault
           url: https://segmentfault.com/
-          logo: segmentfault.png
+          logo: s/segmentfault.png
           description: 思否，开发者技术社区。
         - title: 花粉俱乐部
-          logo: 华为云.png
+          logo: h/huaweicloud.png
           url: https://club.huawei.com/
           description: 华为花粉俱乐部。
         - title: 荣耀俱乐部
-          logo: 荣耀俱乐部.jpg
+          logo: c/club-hihonor.jpg
           url: https://club.hihonor.com/cn/
           description: 荣耀手机官方论坛。
         - title: 卡饭论坛
           url: https://bbs.kafan.cn/portal.php
-          logo: 卡饭论坛.jpg
+          logo: p/portal-kafan.jpg
           description: 最好的软件论坛。
         - title: Inoreader
           url: https://www.inoreader.com/
-          logo: inoreader.jpg
+          logo: i/inoreader.jpg
           description: 重新掌控你的新闻订阅源。
         - title: Hacker News
           url: https://news.ycombinator.com/
-          logo: hacker-news.jpg
+          logo: h/hacker-news.jpg
           description: 一家关于计算机黑客和创业公司的社会化新闻网站。
         - title: 经管之家
           url: https://bbs.pinggu.org/
-          logo: 经管之家.jpg
+          logo: p/pinggu-bbs.jpg
           description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
         - title: 统计之都
           url: https://cosx.org/
-          logo: 统计之都.png
+          logo: c/cosx.png
           description: 一个旨在推广与应用统计学知识的网站和社区。
 
 - taxonomy: 工具集合
