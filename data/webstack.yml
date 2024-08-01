@@ -635,7 +635,7 @@
           description: 重新掌控你的新闻订阅源。
         - title: Hacker News
           url: https://news.ycombinator.com/
-          logo: h/hacker-news.jpg
+          logo: h/hacker-news.png
           description: 一家关于计算机黑客和创业公司的社会化新闻网站。
         - title: 经管之家
           url: https://bbs.pinggu.org/
