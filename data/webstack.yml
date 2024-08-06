@@ -23,6 +23,10 @@
       logo: m/markdown.png
       url: https://md.bioitee.com/
       description: 公众号 Markdown 排版利器。
+    - title: 飞书消息
+      logo: l/lark-suite.webp
+      url: https://shenweiyan.feishu.cn/next/messenger
+      description: 先进企业，先用飞书。
     - title: 'Lark Suite Messenger'
       logo: l/lark-suite.webp
       url: https://shenweiyan.sg.larksuite.com/next/messenger
