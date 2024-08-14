@@ -16,7 +16,7 @@
       url: https://weiyan.cc
       description: 基于 MkDocs Material 个人站点。
     - title: BioIT 爱好者
-      logo: b/bioitee.webp
+      logo: o/octocat.png
       url: https://www.bioitee.com/
       description: BioIT 爱好者主页。
     - title: Markdown2Html
@@ -607,7 +607,7 @@
           description: 简书 - 创作你的创作。
         - title: 稀土掘金
           url: https://juejin.cn/
-          logo: 稀土掘金.png
+          logo: j/juejin.png
           description: 掘金 - 代码不止，掘进不停。
         - title: CSDN
           url: https://www.csdn.net/
@@ -661,27 +661,27 @@
           description: 像发微博一样记笔记，记录你想法的川流。
         - title: 石墨文档
           url: https://shimo.im/
-          logo: 石墨文档.png
+          logo: s/shimo.webp
           description: 支持多人协作的在线文档编辑工具。
         - title: 腾讯文档
           url: https://docs.qq.com/
-          logo: 腾讯文档.png
+          logo: d/docs-qq.png
           description: 腾讯文档 - 官方网站。
         - title: ProcessOn
-          logo: ProcessOn.png
+          logo: p/processon.png
           url: https://www.processon.com/
           description: 免费在线作图、实时协作。
         - title: 幕布
           url: https://mubu.com/
-          logo: 幕布.jpg
+          logo: m/mubu.jpg
           description: 极简大纲笔记，可以一键生成思维导图。
         - title: 百度脑图
           url: https://naotu.baidu.com/
-          logo: 百度脑图.png
+          logo: n/naotu-baidu.webp
           description: 百度便捷的在线思维导图制作工具。
         - title: GitMind
           url: https://gitmind.cn/
-          logo: getmind.png
+          logo: g/getmind.png
           description: 好用的全平台思维导图软件。
         - title: tinypng
           url: https://tinypng.com/
@@ -715,19 +715,19 @@
       links:
         - title: 腾讯问卷
           url: https://wj.qq.com/
-          logo: 腾讯问卷.png
+          logo: w/wj-qq.png
           description: 免费好用的问卷调查系统。
         - title: 草料二维码
           url: https://cli.im/
-          logo: 草料二维码.png
+          logo: c/cli-im.png
           description: 将不同类型的内容生成二维码。
         - title: 'SM.MS'
           url: https://sm.ms/
-          logo: smms.png
+          logo: s/smms.png
           description: 免费图床工具。
         - title: ImgURL
           url: https://www.imgurl.org/
-          logo: imgurl.png
+          logo: i/imgurl.png
           description: 免费图片外链工具。
     - term: 视频语音
       links:
