@@ -114,36 +114,6 @@
           
   icon: fas fa-briefcase fa-lg
   list:
-    - term: 邮箱服务
-      links:
-        - title: QQ 邮箱
-          logo: m/mail-qq.png
-          url: http://mail.qq.com/
-          description: 腾讯 QQ 邮箱。 
-        - title: 阿里云邮箱
-          logo: m/mail-ali.png
-          url: https://mail.aliyun.com/
-          description: 阿里邮箱个人版。
-        - title: 网易 163 邮箱
-          logo: n/netease.webp
-          url: https://mail.163.com/
-          description: 网易 163 免费邮箱。
-        - title: 88 完美邮箱
-          logo: 8/88.jpg
-          url: https://88.com/
-          description: '88.com - 完美邮箱'
-        - title: Email 完美邮箱
-          logo: e/emailcn.png
-          url: https://www.email.cn/
-          description: 'Email.cn - 完美邮箱'
-        - title: Gmail
-          logo: g/gmail.png
-          url: https://mail.google.com/
-          description: 谷歌 Gmail 邮箱。
-        - title: Outlook
-          logo: o/outlook.webp
-          url: https://outlook.live.com/
-          description: Free personal email and calendar from Microsoft.
     - term: 在线翻译
       links:
         - title: 有道词典
@@ -360,6 +330,11 @@
           url: https://xuzhougeng.top/
           logo: x/xuzhougeng.webp
           description: 中科院博士，编程技术爱好者。
+        - title: andy四海为家
+          url: https://andyroamer.com/
+          logo: haipig.png
+          description: ai产品经理。
+          
 
       links:
         - title: Photoshop Lady
@@ -868,6 +843,6 @@
           description: 中国领先的PPT模板共享平台。
         - title: 5566
           url: http://www.5566.org/
-          logo: 海绵发条猪.png
+          logo: haipig.png
           description: 大杂烩。
         
