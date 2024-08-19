@@ -332,7 +332,7 @@
           description: 中科院博士，编程技术爱好者。
         - title: andy四海为家
           url: https://andyroamer.com/
-          logo: haipig.png
+          logo: h/haipig.png
           description: ai产品经理。
           
     - term: 学习教程
@@ -843,6 +843,6 @@
           description: 中国领先的PPT模板共享平台。
         - title: 5566
           url: http://www.5566.org/
-          logo: haipig.png
+          logo: h/haipig.png
           description: 大杂烩。
         
