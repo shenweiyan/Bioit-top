@@ -1,42 +1,5 @@
 ---
 
-- taxonomy: 作者站点
-  icon: fas fa-medal
-  links:
-    - title: 语雀
-      logo: y/yuque.webp
-      url: https://www.yuque.com/shenweiyan
-      description: 章鱼猫先生的语雀知识库。
-    - title: Knowledge-Garden
-      logo: k/knowledge-garden.webp
-      url: https://github.com/shenweiyan/Knowledge-Garden/
-      description: All in GitHub Discussions.
-    - title: 知识花园
-      logo: o/octocat.png
-      url: https://weiyan.cc
-      description: 基于 MkDocs Material 个人站点。
-    - title: BioIT 爱好者
-      logo: b/bioitee.webp
-      url: https://www.bioitee.com/
-      description: BioIT 爱好者主页。
-    - title: Markdown2Html
-      logo: m/markdown.png
-      url: https://md.bioitee.com/
-      description: 公众号 Markdown 排版利器。
-    - title: 飞书消息
-      logo: l/lark-suite.webp
-      url: https://shenweiyan.feishu.cn/next/messenger
-      description: 先进企业，先用飞书。
-    - title: 'Lark Suite Messenger'
-      logo: l/lark-suite.webp
-      url: https://shenweiyan.sg.larksuite.com/next/messenger
-      description: 先进企业协作与管理平台。
-    - title: 关注我们
-      logo: q/qrcode.png
-      url: https://www.bioitee.com
-      qrcode: https://res.bioit.top/logos/qrcode.jpg
-      description: 微信公众号：BioIT 爱好者！
-
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
@@ -149,7 +112,6 @@
           url: https://vercel.com/
           description: 通过前端云构建和部署最佳的 Web 体验。
           
-- taxonomy: 工作职场
   icon: fas fa-briefcase fa-lg
   list:
     - term: 邮箱服务
