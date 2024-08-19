@@ -177,7 +177,6 @@
           url: https://www.51job.com/
           description: 51JOB - 前程无忧招聘网。
 
-- taxonomy: 生信科研
   icon: fas fa-dna
   list:
     - term: 在线科研
@@ -311,18 +310,10 @@
           url: http://www.ruanyifeng.com/blog/
           logo: r/ruanyifeng.png
           description: 阮一峰的网络日志。
-        - title: 生信爱好者周刊
-          url: https://openbiox.github.io/weekly/
-          logo: o/openbiox-weekly.png
-          description: 记录每周值得分享的生信相关内容，周日发布。
         - title: 产品变现周刊
           url: https://www.ezindie.com/weekly
           logo: e/ezindie-weekly.png
           description: 独立开发变现人物志、产品周刊、工具集。
-        - title: 财新周刊
-          url: https://weekly.caixin.com/
-          logo: c/caixin-weekly.png
-          description: 财新网周刊，财新网为原创财经新媒体。
         - title: 偷懒爱好者周刊
           url: https://toolight.zhubai.love/
           logo: z/zhubai.webp
@@ -369,31 +360,7 @@
           url: https://xuzhougeng.top/
           logo: x/xuzhougeng.webp
           description: 中科院博士，编程技术爱好者。
-    - term: 教育平台
-      links:
-        - title: 广州安全教育平台
-          url: https://guangzhou.xueanquan.com/
-          logo: x/xueanquan.jpg
-          description: 广州市学校安全教育平台。
-    - term: 书籍文档
-      links:
-        - title: 微信读书
-          url: https://weread.qq.com/
-          logo: w/weread-qq.jpg
-          description: 微信读书电脑版。
-        - title: 'Neat Reader'
-          url: https://www.neat-reader.cn/
-          logo: n/neat-reader.jpg
-          description: 新世代 ePub/Txt 阅读器。
-        - title: 书栈网
-          url: https://www.bookstack.cn/
-          logo: b/bookstack.png
-          description: IT 互联网开源编程书籍免费阅读与下载。
-        - title: 'Qi Reader'
-          url: https://www.qireader.com/
-          logo: q/qireader.png
-          description: 优雅的在线 RSS 阅读器。
-    - term: 视频教程
+
       links:
         - title: Photoshop Lady
           url: http://www.photoshoplady.com/
@@ -410,96 +377,7 @@
         - title: 慕课网
           url: https://www.imooc.com/
           logo: i/imooc.png
-        
-- taxonomy: 悠闲娱乐
-  icon: fas fa-mug-hot
-  list:
-    - term: 影音视频
-      links:
-        - title: 腾讯视频
-          logo: v/v-qq.png
-          url: http://v.qq.com/
-          description: 腾讯视频，海量视频在线观看。
-        - title: 咪咕视频
-          logo: m/miguvideo.jpg
-          url: https://www.miguvideo.com/
-          description: 在线视频播放平台。
-        - title: 抖音
-          logo: d/douyin.png
-          url: https://www.douyin.com/
-          description: 抖音-记录美好生活。
-        - title: 优酷
-          logo: y/youku.png
-          url: http://www.youku.com/
-          description: 优酷 - 这个世界很酷。
-        - title: 爱奇艺
-          logo: i/iqiyi.png
-          url: https://www.iqiyi.com/
-          description: 爱奇艺在线视频。
-        - title: 哔哩哔哩
-          logo: b/bilibili.png
-          url: https://www.bilibili.com/
-          description: Bilibili 视频弹幕网站。
-        - title: QQ 音乐
-          logo: y/y-qq.jpg
-          url: https://y.qq.com/
-          description: QQ 音乐，在线听歌。
-        - title: 网易云音乐
-          logo: m/music-163.png
-          url: https://music.163.com/
-          description: 163 网易云音乐。
-        - title: 电影天堂
-          logo: d/dygod.png
-          url: https://www.dygod.org/
-          description: "www.dygod.org。"
-    - term: 游戏竞技
-      links:
-        - title: 战地之王（龙龙网）
-          logo: a/ava.webp
-          url: http://ava.llwl.cn/
-          description: 龙龙网络 AVA 战地之王。
-        - title: 战地之王（台服）
-          logo: a/ava.webp
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
-        - title: 战地之王（国际服）
-          logo: a/ava.webp
-          url: https://avaonline.global/
-          description: The official A.V.A Global.
-        - title: Steam
-          logo: s/steam.jpg
-          url: https://store.steampowered.com/
-          description: 欢迎来到 Steam。
 
-- taxonomy: 社区论坛
-  icon: fas fa fa-comments
-  list:
-    - term: 社交娱乐
-      links:
-        - title: 虎扑社区
-          url: https://bbs.hupu.com/
-          logo: h/hupu-bbs.png
-          description: 以体育赛事和日常生活为主的专业直文化社区。
-        - title: 中羽在线社区
-          logo: b/badmintoncn-bbs.png
-          url: https://bbs.badmintoncn.com/portal.php
-          description: 中羽在线社区-羽毛球友都在这！
-        - title: 百度贴吧
-          logo: t/tieba-baidu.png
-          url: https://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 豆瓣
-          logo: d/douban.png
-          url: https://www.douban.com/
-          description: 豆瓣社区。
-        - title: Facebook
-          logo: f/facebook.png
-          url: https://www.facebook.com/
-          description: Facebook
-        - title: NGA 玩家社区
-          url: https://bbs.nga.cn/
-          logo: n/nga-bbs.png
-          description: 国内专业的游戏玩家社区。
     - term: 开源社区
       links:
         - title: openEuler
@@ -526,28 +404,6 @@
           logo: s/summer-ospp.svg
           url: https://summer-ospp.ac.cn/
           description: 中科院软件所发起并长期支持的一项暑期开源活动。
-    - term: 生信论坛
-      links:
-        - title: Biostars
-          url: https://www.biostars.org/
-          logo: b/biostars.png
-          description: Bioinformatics Answers.
-        - title: OmicShare Forum
-          url: https://www.omicshare.com/forum/forum.php
-          logo: o/omicshare-forum.png
-          description: 广州基迪奥生物信息论坛。
-        - title: 生信技能树
-          url: http://www.biotrainee.com/
-          logo: b/biotrainee.jpg
-          description: 帮助每一位生信人构建最完善的生信技能树。
-        - title: BioLinkX
-          url: https://www.yuque.com/biolinkx
-          logo: b/biolinks.png
-          description: BioLinkX 生物信息学协会。
-        - title: BioAnno
-          url: https://bioanno.com/
-          logo: b/bioanno.jpg
-          description: TBtools 技能易物社区。
           
     - term: 技术社区
       links:
@@ -723,36 +579,6 @@
           url: http://mustsee.earth/
           logo: mustsee.png
           description: Discover the world's most beautiful places at every opened tab.
-    - term: 图形创意
-      links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
-          logo: photoshop.png
-          description: Photoshop不需要解释
-        - title: Affinity Designer
-          url: https://affinity.serif.com/
-          logo: AffinityDesigner.png
-          description: 专业创意软件
-        - title: Illustrator
-          url: https://www.adobe.com/cn/products/illustrator/
-          logo: Illustrator.png
-          description: 矢量图形和插图。
-        - title: indesign
-          url: http://www.adobe.com/cn/products/indesign.html
-          logo: INDESIGN .png
-          description: 页面设计、布局和出版。
-        - title: cinema-4d
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: cinema4d.png
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-        - title: 3ds-max
-          url: https://www.autodesk.com/products/3ds-max/overview
-          logo: 3dsmax.png
-          description: 3D modeling, animation, and rendering software
-        - title: Blender
-          url: https://www.blender.org/
-          logo: blender.png
-          description: Blender is the free and open source 3D creation suite.
     - term: 界面设计
       links:
         - title: Sketch
@@ -846,24 +672,6 @@
 - taxonomy: 素材资源
   icon: fas fa-folder-open fa-lg
   list:
-    - term: 网盘资源
-      links:
-        - title: 百度网盘
-          logo: 百度网盘.jpg
-          url: http://pan.baidu.com/
-          description: https://pan.baidu.com/.
-        - title: 阿里云盘
-          logo: 阿里云盘.png
-          url: https://www.aliyundrive.com/
-          description: 阿里云盘，你的数字世界。
-        - title: 天翼云盘
-          logo: 天翼云盘.jpg
-          url: https://cloud.189.cn/
-          description: 家庭云|网盘|文件备份|资源分享。
-        - title: 坚果云
-          logo: 坚果云.png
-          usrl: https://www.jianguoyun.com/
-          description: 坚果云官网。
     - term: 图标素材
       links:
         - title: Iconfinder
@@ -954,26 +762,6 @@
           logo: Medialoot.png
           url: https://medialoot.com/
           description: Free &amp; Premium Design Resources &mdash; Medialoot.
-        - title: 千图网
-          logo: qiantu.png
-          url: http://www.58pic.com/
-          description: 专注免费设计素材下载的网站.
-        - title: 千库网
-          logo: qianku.png
-          url: http://588ku.com/
-          description: 免费 png 图片背景素材下载。
-        - title: 我图网
-          logo: wotu.png
-          url: http://www.ooopic.com/
-          description: 我图网，提供图片素材及模板下载，专注正版设计作品交易。
-        - title: 90 设计
-          logo: 90sheji.png
-          url: http://90sheji.com/
-          description: 电商设计（淘宝美工）千图免费淘宝素材库。
-        - title: 昵图网
-          logo: nipic.png
-          url: http://www.nipic.com/
-          description: 原创素材共享平台。
         - title: 懒人图库
           logo: lanrentuku.png
           url: http://www.lanrentuku.com/
@@ -1078,4 +866,8 @@
           url: http://ppt.500d.me/
           logo: 500d.png
           description: 中国领先的PPT模板共享平台。
+        - title: 5566
+          url: http://www.5566.org/
+          logo: 海绵发条猪.png
+          description: 大杂烩。
         
