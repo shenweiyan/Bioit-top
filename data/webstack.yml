@@ -3,13 +3,13 @@
 - taxonomy: 作者站点
   icon: fas fa-medal
   links:
-    - title: 语雀
+    - title: '史提芬先森 · 语雀'
       logo: y/yuque.webp
       url: https://www.yuque.com/shenweiyan
-      description: 章鱼猫先生的语雀知识库。
+      description: 作者的语雀花园主页。
     - title: Knowledge-Garden
       logo: k/knowledge-garden.webp
-      url: https://github.com/shenweiyan/Knowledge-Garden/
+      url: GitHub Knowledge-Garden 仓库。
       description: All in GitHub Discussions.
     - title: 知识花园
       logo: o/octocat.png
