@@ -268,6 +268,11 @@
           url: http://rna.baidu.com/
           logo: r/rna-baidu.webp
           description: 百度飞桨深度学习框架。
+        - title: 临床生信之家
+          url: https://www.aclbi.com/
+          logo: a/aclbi.jpg
+          description: 生信之美，每一个科研者都值得拥有。
+          
     - term: 云服务器
       links:
         - title: 阿里云
@@ -339,6 +344,14 @@
           logo: c/cluster.webp
           url: http://www2.heatmapper.ca/expression/
           description: 免费的在线的聚类图绘制。
+        - title: 微生信
+          logo: w/weishengxin.webp
+          url: http://www.bioinformatics.com.cn/
+          description: 您身边的数据分析、可视化专家。
+        - title: ChiPlot
+          logo: c/chiplot-online.webp
+          url: https://www.chiplot.online/
+          description: 'chiplot.online.'
 
 - taxonomy: 教育学习
   icon: fas fa fa-graduation-cap
