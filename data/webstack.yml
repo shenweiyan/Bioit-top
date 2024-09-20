@@ -148,6 +148,12 @@
           logo: v/vercel.webp
           url: https://vercel.com/
           description: 通过前端云构建和部署最佳的 Web 体验。
+    - term: 开发工具
+      links:
+        - title: 开发者武器库
+          logo: d/devtool-tech.svg
+          url: https://devtool.tech/
+          description: 属于程序员的工具箱。
           
 - taxonomy: 工作职场
   icon: fas fa-briefcase fa-lg
