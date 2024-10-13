@@ -1,15 +1,9 @@
-- title: 生信网址导航
-  url: https://hao.bioitee.com/
-  description: 将重点资源整理成一个生信导航网页。
 - title: Md2X Editor
   url: https://mdx.bioitee.com/
   description: 一个专注于解决微信公众号 Markdown 排版的平台。
 - title: 爱分享网址导航
   url: https://ifx8.com/cn/index.html
   description: ifx8.com, 爱分享网址导航。
-- title: 老司机导航
-  url: https://itianxia.cn/
-  description: 懂你的网址导航。
 - title: 'ApacheCN 导航文库'
   url: https://docs.apachecn.org/
   description: 'ApacheCN - 可能是东半球最大的 AI 社区。'
