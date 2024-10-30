@@ -1,0 +1,12 @@
+{
+  "name": "HugoBlog4EdgeOne",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "hugo",
+    "create": "hugo new",
+    "serve": "hugo server"
+  },
+  "devDependencies": {
+    "hugo-bin": "^0.133.5"
+  }
+}
