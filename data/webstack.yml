@@ -254,6 +254,10 @@
           logo: g/galaxy-logo.jpg
           url: https://galaxyproject.org/
           description: Galaxy Community Hub.
+        - title: R-universe
+          logo: r/r-universe.webp
+          url: https://r-universe.dev/
+          description: Browse and search R packages.
         - title: R Project
           logo: r/r-project.webp
           url: https://www.r-project.org/
