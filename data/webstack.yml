@@ -352,7 +352,7 @@
           description: 在线的免费的韦恩图生成器。
         - title: 聚类图
           logo: c/cluster.webp
-          url: http://www2.heatmapper.ca/expression/
+          url: http://www.heatmapper.ca/
           description: 免费的在线的聚类图绘制。
         - title: 微生信
           logo: w/weishengxin.webp
