@@ -1,33 +1,29 @@
 ---
 title: "关于网站"
-date: 2020-07-28T19:27:08+08:00
+date: 2024-11-05
 draft: false
 ---
 
-#### 这是 Hugo 版 WebStack 主题
+> **📢 让更多人的人制作自己的导航网站。如果你觉得本主题对你有所帮助，欢迎请作者 [喝杯咖啡](https://kg.weiyan.cc/0000/img/donate.webp) >.<**
 
-本项目是基于**纯静态**的网址导航网站 [webstack.cc](https://github.com/WebStackPage/WebStackPage.github.io) 制作的 [Hugo](https://gohugo.io/) 主题，其中部分代码参考了以下几个开源项目：<br/><br/>
+WebStack-Hugo 网址导航（<https://bioit.top/>），这是一个属于个人使用的导航网站，有非常严重的主观倾向和利己主义。**原则上不接受提交网址。**
 
-- [https://github.com/liutongxu/liutongxu.github.io](https://github.com/liutongxu/liutongxu.github.io)
-- [https://github.com/iplaycode/webstack-hugo](https://github.com/iplaycode/webstack-hugo)
+## 主题开源地址    
 
-<br/>
+[**GitHub**](https://github.com/shenweiyan/WebStack-Hugo) | [**Gitee**](https://gitee.com/shenweiyan/WebStack-Hugo) | [**GitCode**](https://gitcode.com/shenweiyan/WebStack-Hugo)
 
-主题安装后，将 exampleSite 目录下的文件复制到 hugo 站点根目录，根据需要把 config.toml 的一些信息改成自己的，导航的网址信息可通过 data 目录下 webstack.yml 修改。
+## 主题展示地址
 
-这是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。
+[**WebStack-Hugo 网址导航**](https://bioit.top/) | [**生信网址导航**](https://hao.bioitee.com/) 
 
-WebStack 有非常多的魔改版本，这是其中一个。如果你对本主题进行了一些个性化调整，欢迎来本项目中 issue 分享一下！
+## 这是 Hugo 版 WebStack 主题
 
-<br/>
+本站点是基于 WebStack 网址导航 Hugo 主题 [WebStack-Hugo](https://github.com/shenweiyan/webstack-hugo) 搭建，是一个无需服务器，支持导航一键配置的纯静态网址导航网站。[WebStack-Hugo](https://github.com/shenweiyan/webstack-hugo) 是一个开源的公益项目，你可以拿来制作自己的网址导航，也可以做与导航无关的网站。
 
-#### 主题开源地址
+![webstack-hugo-collapse](https://kg.weiyan.cc/2023/11/webstack-hugo-collapse.png)
 
-[https://github.com/shenweiyan/webstack-hugo](https://github.com/shenweiyan/webstack-hugo)
+![webstack-hugo-expand](https://kg.weiyan.cc/2023/11/webstack-hugo-expand.png)
 
-<br/>
+![webstack-hugo-search](https://kg.weiyan.cc/2023/11/webstack-hugo-search.png)
 
-#### 主题演示地址
-
-- [https://nav.bioitee.com](https://nav.bioitee.com)
-- [https://shenweiyan.github.io/webstack-hugo](https://shenweiyan.github.io/webstack-hugo)
+![webstack-hugo-phone](https://kg.weiyan.cc/2023/11/webstack-hugo-phone.png)

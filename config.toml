@@ -11,7 +11,7 @@ publishDir            = "public"
     author        = "shenweiyan"
     description   = "WebStack-Hugo 网址导航主题 | Bio IT 爱好者"
     upload        = "./upload/"
-    about         = "https://weiyan.cc/discussions-10/"	                # 左侧导航栏的"关于我们"页面(./about)
+    about         = "./about/"	                                        # 左侧导航栏的"关于我们"页面(./about)
     repository    = "https://github.com/shenweiyan/WebStack-Hugo"	
     enablePreLoad = true                                                # 网站完全打开前预加载动画
     textPreLoad   = "BioIT 爱好者"                                      # 预加载的动画文字, 只有当enablePreLoad=true时生效
