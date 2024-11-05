@@ -17,7 +17,7 @@ jobs:
       - name: Setup Hugo	        # 步骤名自取
         uses: peaceiris/actions-hugo@v2	# hugo官方提供的action，用于在任务环境中获取hugo
         with:
-          hugo-version: '0.122.0'	# 获取指定版本的hugo
+          hugo-version: '0.137.0'	# 获取指定版本的hugo
 
       - name: Build 
         #run: hugo --minify	# 使用 hugo 构建静态网页
