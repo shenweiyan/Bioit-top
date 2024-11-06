@@ -18,6 +18,13 @@ jobs:
         run: |
           git submodule update --init --recursive
           git submodule update --recursive --remote
+      - name: Commit
+        run: |
+          git config user.email "weiyanshum@gmail.com"
+          git config user.name "shenweiyan"
+          git add --all
+          git commit -m "Update submodules" || echo "No changes to commit"
+          git push
 
       - name: Setup Hugo	        # 步骤名自取
         uses: peaceiris/actions-hugo@v2	# hugo官方提供的action，用于在任务环境中获取hugo
