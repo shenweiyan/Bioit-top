@@ -13,6 +13,11 @@ jobs:
         with:
          submodules: recursive          # Fetch Hugo themes (true OR recursive) 获取submodule主题
          fetch-depth: 0                 # Fetch all history for .GitInfo and .Lastmod
+         
+      - name: Pull & update submodules recursively
+        run: |
+          git submodule update --init --recursive
+          git submodule update --recursive --remote
 
       - name: Setup Hugo	        # 步骤名自取
         uses: peaceiris/actions-hugo@v2	# hugo官方提供的action，用于在任务环境中获取hugo
