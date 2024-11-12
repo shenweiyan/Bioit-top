@@ -1,4 +1,8 @@
-# WebStack-Hugo 导航站点
+> **2024年11月12日：更多新功能，请参考：<https://github.com/NavStackPage> 项目！**
+
+------
+
+## WebStack-Hugo 导航站点
 
 本项目是基于 [WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) 静态响应式网址导航主题，打造的的**个人定制版本**。
 
@@ -24,7 +28,5 @@ $ git pull https://github.com/shenweiyan/WebStack-Hugo.git
 
 发布至 GitHub 的 **[Bioit-top](https://github.com/shenweiyan/Bioit-top)**（即本仓库）的 [gh-pages](https://github.com/shenweiyan/Bioit-top/tree/gh-pages) 分支：
 
-- [gh-pages](https://github.com/shenweiyan/Bioit-top/tree/gh-pages) 分支部署至 [Netlify](https://app.netlify.com/)，同时绑定 [https://bioit.top](https://bioit.top)，**国内访问相对快一些！**
-
-- [gh-pages](https://github.com/shenweiyan/Bioit-top/tree/gh-pages) 分支部署至 [Cloudflare Pages](https://pages.cloudflare.com/)，同时绑定 [https://nav.bioit.top](https://nav.bioit.top)，**国内访问可能有一定延迟。**
+- [gh-pages](https://github.com/shenweiyan/Bioit-top/tree/gh-pages) 分支部署至 [Cloudflare Pages](https://pages.cloudflare.com/)，同时绑定 [https://webstack.bioit.top](https://webstack.bioit.top)，**国内访问可能有一定延迟。**
 
