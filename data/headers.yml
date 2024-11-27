@@ -1,18 +1,16 @@
 - item: 首页
   icon: fa fa-home
-  link: "https://bioit.top"
+  link: "./"
 
 - item: 作者
-  icon: fab fa-hive
-  link: https://weiyan.cc
+  icon: fa fa-book
+  link: https://weiyan.cc/
 
-- item: 设置
+- item: 关于
   icon: fa fa-cog
   link: ""
   list:
     - name: 教程
-      url: "https://github.com/shenweiyan/Knowledge-Garden/discussions/10"
-    - name: 主题
-      url: "https://github.com/shenweiyan/WebStack-Hugo"
+      url: https://github.com/shenweiyan/Knowledge-Garden/discussions/10
     - name: 源码
-      url: https://github.com/shenweiyan/Bioit-top
+      url: https://github.com/shenweiyan/WebStack-Demo

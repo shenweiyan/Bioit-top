@@ -1,911 +1,165 @@
 ---
 
-- taxonomy: 作者站点
-  icon: fas fa-medal
-  links:
-    - title: '史提芬先森 · 语雀'
-      logo: y/yuque.webp
-      url: https://www.yuque.com/shenweiyan
-      description: 作者的语雀花园主页。
-    - title: Knowledge-Garden
-      logo: k/knowledge-garden.webp
-      url: https://github.com/shenweiyan/Knowledge-Garden
-      description: All in GitHub Discussions.
-    - title: 知识花园
-      logo: o/octocat.png
-      url: https://weiyan.cc
-      description: 基于 MkDocs Material 个人站点。
-    - title: BioIT 爱好者
-      logo: b/bioitee.webp
-      url: https://www.bioitee.com/
-      description: BioIT 爱好者主页。
-    - title: Markdown2Html
-      logo: m/markdown.png
-      url: https://md.bioitee.com/
-      description: 公众号 Markdown 排版利器。
-    - title: 飞书消息
-      logo: l/lark-suite.webp
-      url: https://shenweiyan.feishu.cn/next/messenger
-      description: 先进企业，先用飞书。
-    - title: 'Lark Suite Messenger'
-      logo: l/lark-suite.webp
-      url: https://shenweiyan.sg.larksuite.com/next/messenger
-      description: 先进企业协作与管理平台。
-    - title: 关注我们
-      logo: q/qrcode.png
-      url: https://www.bioitee.com
-      qrcode: https://res.bioit.top/logos/qrcode.jpg
-      description: 微信公众号：BioIT 爱好者！
-
 - taxonomy: 常用推荐
   icon: far fa-star
   links: 
     - title: 语雀
-      logo: y/yuque.webp
+      logo: 语雀.webp
       url: https://www.yuque.com/
       description: 专业的云端知识库。
+    - title: QQ 邮箱
+      logo: qq邮箱.png
+      url: http://mail.qq.com/
+      description: 腾讯 QQ 邮箱。
     - title: 开源中国
-      logo: o/oschina.webp
+      logo: 开源中国.jpg
       url: https://www.oschina.net/
       description: 中文开源技术交流社区。
     - title: 公众号平台
-      logo: m/mp-weixin.png
+      logo: 微信公众号.png
       url: https://mp.weixin.qq.com/
       description: 再小的个体也有自己的品牌。
+    - title: GitHub
+      logo: github.png
+      url: https://github.com/
+      description: GitHub 开源社区。
     - title: 搜狗微信
-      logo: s/sogou.webp
+      logo: 搜狗微信.jpg
       url: https://weixin.sogou.com/
       description: 搜狗微信搜索，一搜即达。
-    - title: 微博
-      logo: w/weibo.webp
-      url: https://weibo.com/
-      description: 随时随地发现新鲜事。
-    - title: 推特
-      logo: x/x-twitter.webp
-      url: https://x.com/
-      description: Twitter
     - title: 知乎
-      logo: z/zhihu.png
+      logo: 知乎.png
       url: https://www.zhihu.com/
       description: 知乎社区。
-    - title: 文心一言
-      url: https://yiyan.baidu.com/
-      logo: y/yiyan-baidu-com.webp
-      description: yiyan.baidu.com
-    - title: ChatGPT
-      url: https://chat.openai.com/
-      logo: c/chatgpt.webp
-      description: chat.openai.com
     - title: V2EX
-      logo: v/v2ex.jpg
+      logo: v2ex.jpg
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区。
-      
-- taxonomy: 码农专区
-  icon: fab fa-github
-  list:
-    - term: 代码托管
-      links:
-        - title: GitHub
-          logo: g/github.webp
-          url: https://github.com/
-          description: GitHub 开源社区。
-        - title: Codeberg
-          logo: c/codeberg.webp
-          url: https://codeberg.org/
-          description: "基于 Forgejo，(欧盟)德国开发者维护的托管平台。"
-        - title: GitCode
-          logo: g/gitcode.png
-          url: https://gitcode.com/
-          description: 开发者的代码家园。
-        - title: 码云
-          logo: g/gitee.webp
-          url: https://gitee.com/
-          description: 基于 Git 的代码托管和研发协作平台。
-        - title: CODING
-          logo: c/coding.webp
-          url: https://coding.net/
-          description: 一站式软件研发管理平台。
-        - title: 阿里云效
-          logo: c/codeup.svg
-          url: https://codeup.aliyun.com/
-          description: 企业级代码管理平台。
-        - title: 极狐
-          logo: g/gitlab.webp
-          url: https://jihulab.com/
-          description: GitLab 极狐版 (JH)。
-        - title: GitLab
-          logo: g/gitlab.webp
-          url: https://gitlab.com/
-          description: The One DevOps Platform.
-        - title: AtomGit
-          logo: a/atomgit.png
-          url: https://atomgit.com/
-          description: 开放原子开源基金会提供的代码托管平台。
-        - title: Gitea
-          logo: g/gitea.svg
-          url: https://gitea.com/
-          description: Git with a cup of tea!
-        - title: Framagit
-          logo: f/framagit.svg
-          url: https://framagit.org
-          description: 基于 GitLab 的法国公司，站点在德国。
-    - term: 静态网站
-      links: 
-        - title: Webify
-          logo: c/cloud-tencent.webp
-          url: https://webify.cloudbase.net/
-          description: 专为 Web 开发者打造的应用托管平台。
-        - title: Netlify
-          logo: n/netlify.webp
-          url: https://app.netlify.com/
-          description: Netlify 组合式 Web 平台。
-        - title: Cloudflare Pages
-          logo: c/cloudflare-pages.webp
-          url: https://pages.cloudflare.com/
-          description: 前端开发人员协作和部署网站。
-        - title: Vercel
-          logo: v/vercel.webp
-          url: https://vercel.com/
-          description: 通过前端云构建和部署最佳的 Web 体验。
-    - term: 开发工具
-      links:
-        - title: 开发者武器库
-          logo: d/devtool-tech.svg
-          url: https://devtool.tech/
-          description: 属于程序员的工具箱。
-          
-- taxonomy: 工作职场
-  icon: fas fa-briefcase fa-lg
-  list:
-    - term: 邮箱服务
-      links:
-        - title: QQ 邮箱
-          logo: m/mail-qq.png
-          url: http://mail.qq.com/
-          description: 腾讯 QQ 邮箱。 
-        - title: 阿里云邮箱
-          logo: m/mail-ali.png
-          url: https://mail.aliyun.com/
-          description: 阿里邮箱个人版。
-        - title: 网易 163 邮箱
-          logo: n/netease.webp
-          url: https://mail.163.com/
-          description: 网易 163 免费邮箱。
-        - title: 88 完美邮箱
-          logo: 8/88.jpg
-          url: https://88.com/
-          description: '88.com - 完美邮箱'
-        - title: Email 完美邮箱
-          logo: e/emailcn.png
-          url: https://www.email.cn/
-          description: 'Email.cn - 完美邮箱'
-        - title: Gmail
-          logo: g/gmail.png
-          url: https://mail.google.com/
-          description: 谷歌 Gmail 邮箱。
-        - title: Outlook
-          logo: o/outlook.webp
-          url: https://outlook.live.com/
-          description: Free personal email and calendar from Microsoft.
-    - term: 在线翻译
-      links:
-        - title: 有道词典
-          logo: y/youdao.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 有道翻译
-          logo: y/youdao.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译。
-        - title: 谷歌翻译
-          logo: t/translate-google.png
-          url: https://translate.google.com.hk/
-          description: 谷歌翻译。
-        - title: 百度翻译
-          logo: f/fanyi-baidu.png
-          url: https://fanyi.baidu.com/
-          description: "200 种语言互译、沟通全世界！"
-        - title: DeeL 翻译
-          logo: d/deepl.svg
-          url: https://www.deepl.com/translator
-          description: 全世界最准确的翻译。
-    - term: 求职招聘
-      links:
-        - title: 简单简历
-          logo: e/easycv.png
-          url: https://easycv.cn/
-          description: 五分钟打造互联网从业者的金牌简历。
-        - title: 前程无忧
-          logo: 5/51job.jpg
-          url: https://www.51job.com/
-          description: 51JOB - 前程无忧招聘网。
+    - title: 关注我们
+      logo: 关注.jpg
+      url: https://www.bioitee.com
+      qrcode: qrcode.jpg
+      description: 微信公众号：BioIT 爱好者！
 
-- taxonomy: 生信科研
-  icon: fas fa-dna
+
+- taxonomy: 科研办公
+  icon: fas fa-flask fa-lg
   list:
-    - term: 在线科研
+    - term: 生物信息
       links:
         - title: NCBI
-          logo: n/ncbi.webp
+          logo: ncbi.jpg
           url: https://www.ncbi.nlm.nih.gov/
           description: National Center for Biotechnology Information.
-        - title: NCBI BLAST
-          logo: b/blast.png
-          url: https://blast.ncbi.nlm.nih.gov/Blast.cgi
-          description: NCBI 的 BLAST 序列比对工具。
         - title: Bioconda
-          logo: b/bioconda.jpg
+          logo: bioconda.jpg
           url: https://anaconda.org/bioconda/
           description: "Bioconda :: Anaconda.org."
         - title: CPAN
-          logo: m/metacpan.jpg
+          logo: cpan.jpg
           url: https://metacpan.org/
           description: Search the CPAN.
-        - title: Galaxy 即时聊天
-          logo: g/gitter.jpg
-          url: https://app.element.io/#/room/#galaxyproject:matrix.org
-          description: Galaxy Chat on Matrix.
-        - title: Galaxy Main
-          logo: g/galaxy-project.png
-          url: https://usegalaxy.org/
-          description: Use Galaxy Main server.
         - title: Galaxy Project
-          logo: g/galaxy-logo.jpg
+          logo: galaxy_project.png
           url: https://galaxyproject.org/
           description: Galaxy Community Hub.
-        - title: R-universe
-          logo: r/r-universe.webp
-          url: https://r-universe.dev/
-          description: Browse and search R packages.
         - title: R Project
-          logo: r/r-project.webp
+          logo: r-project.jpg
           url: https://www.r-project.org/
           description: https://www.r-project.org
         - title: Bioconductor
-          logo: b/bioconductor.png
+          logo: bioconductor.jpg
           url: http://www.bioconductor.org/
           description: http://www.bioconductor.org
-        - title: RNAfold WebServer
-          logo: r/rna-tbi.webp
-          url: http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi
-          description: RNA 分子二级结构预测。
-        - title: CNGBDB
-          logo: d/db-cngb.png
-          url: https://db.cngb.org/
-          description: 国家基因库生命大数据平台。
-        - title: '螺旋桨 - PaddleHelix'
-          url: http://rna.baidu.com/
-          logo: r/rna-baidu.webp
-          description: 百度飞桨深度学习框架。
-        - title: 临床生信之家
-          url: https://www.aclbi.com/
-          logo: a/aclbi.jpg
-          description: 生信之美，每一个科研者都值得拥有。
-          
     - term: 云服务器
       links:
         - title: 阿里云
-          logo: a/aliyun.jpg
+          logo: 阿里云.jpg
           url: https://www.aliyun.com/
           description: 上云就上阿里云。
         - title: 腾讯云
-          logo: c/cloud-tencent.webp
+          logo: 腾讯云.webp
           url: https://cloud.tencent.com/
           description: 产业智变，云启未来。
         - title: 华为云
-          logo: h/huaweicloud.png
+          logo: 华为云.png
           url: https://www.huaweicloud.com/
-          description: 共建智能世界云底座。
-        - title: 七牛云
-          logo: q/qiniu.jpg
-          url: https://www.qiniu.com/
-          description: 一站式场景化智能视频云。
-        - title: 京东云
-          logo: j/jdcloud.jpg
-          url: https://www.jdcloud.com/
-          description: 京东科技集团旗下领先的云计算品牌。
+          description: 提供云计算服务+智能，见未来-华为云。
         - title: 云筏科技
-          logo: c/cloudraft.webp
+          logo: 云筏.png
           url: https://www.cloudraft.cn/
-          description: 云筏 - 科研云。
+          description: 你的生信科研好选择。
         - title: 极云普惠云电脑
-          logo: j/ji-cloud.png
+          logo: 极云普惠云电脑.png
           url: https://www.ji-cloud.cn/
           description: 云电脑-云游戏-手机变电脑软件。
         - title: 青椒云
-          logo: q/qingjiaocloud.jpg
+          logo: 青椒云.jpg
           url: https://www.qingjiaocloud.com/
           description: 云桌面,一站式云电脑服务平台。
-    - term: 科研绘图
-      links: 
-        - title: Hiplot
-          logo: h/hiplot.png
-          url: https://hiplot.com.cn/
-          description: 基于 Web 技术开发的一个免费和综合的科学数据计算和可视化云平台。
-        - title: ImageGP
-          logo: i/imagegp-ehbio.jpg
-          url: http://www.ehbio.com/ImageGP/
-          description: 易汉博生物信息在线作图。
-        - title: 锐博 Galaxy 平台
-          logo: g/galaxy-project.png
-          url: http://galaxy.ribobio.com:8088/
-          description: 锐博生物 Galaxy 在线平台，需要注册。
-        - title: R Graph Gallery
-          logo: r/r-graph-gallery.png
-          url: https://www.r-graph-gallery.com/
-          description: R 语言可视化案例网站。
-        - title: Python Graph Gallery
-          logo: r/r-graph-gallery.png
-          description: Python 言可视化案例网站。
-        - title: OmicShare Tools
-          logo: o/omicshare.jpg
-          url: https://www.omicshare.com/tools/
-          description: 基迪奥生信云工具。
-        - title: 韦恩图（Venn）
-          logo: v/venn.png
-          url: https://bioinformatics.psb.ugent.be/webtools/Venn/
-          description: 计算和绘制自定义韦恩图。
-        - title: 韦恩图（Venny）
-          logo: v/venn.png
-          url: https://bioinfogp.cnb.csic.es/tools/venny/index.html
-          description: 在线的免费的韦恩图生成器。
-        - title: 聚类图
-          logo: c/cluster.webp
-          url: http://www.heatmapper.ca/
-          description: 免费的在线的聚类图绘制。
-        - title: 微生信
-          logo: w/weishengxin.webp
-          url: http://www.bioinformatics.com.cn/
-          description: 您身边的数据分析、可视化专家。
-        - title: ChiPlot
-          logo: c/chiplot-online.webp
-          url: https://www.chiplot.online/
-          description: 'chiplot.online.'
-
-- taxonomy: 教育学习
-  icon: fas fa fa-graduation-cap
-  list:        
-    - term: 周刊杂志
+    - term: 办公学习
       links:
-        - title: 科技爱好者周刊
-          url: http://www.ruanyifeng.com/blog/
-          logo: r/ruanyifeng.png
-          description: 阮一峰的网络日志。
-        - title: 生信爱好者周刊
-          url: https://openbiox.github.io/weekly/
-          logo: o/openbiox-weekly.png
-          description: 记录每周值得分享的生信相关内容，周日发布。
-        - title: 产品变现周刊
-          url: https://www.ezindie.com/weekly
-          logo: e/ezindie-weekly.png
-          description: 独立开发变现人物志、产品周刊、工具集。
-        - title: 财新周刊
-          url: https://weekly.caixin.com/
-          logo: c/caixin-weekly.png
-          description: 财新网周刊，财新网为原创财经新媒体。
-        - title: 偷懒爱好者周刊
-          url: https://toolight.zhubai.love/
-          logo: z/zhubai.webp
-          description: '偷懒爱好者周刊，分享产品、工具、新鲜事，每周三发布。'
-        - title: 老胡的信息周刊
-          url: https://weekly.howie6879.com/
-          logo: h/howie6879-weekly.webp
-          description: 记录老胡每周看到的优质资源，包含项目、软件、资料、网站。
-        - title: Python 潮流周刊
-          url: https://pythoncat.top/
-          logo: p/pythoncat.webp
-          description: '豌豆花下猫，Python 编程。'
-        - title: 二丫讲梵
-          url: https://wiki.eryajf.net/
-          logo: e/eryajf.webp
-          description: '运维技术和 Go 语言周边为主，辅以 GitHub 上优秀项目或他人优秀经验。'
-        - title: '1Link.Fun'
-          url: https://1link.fun/blog/
-          logo: 1/1linkfun.webp
-          description: '一个分享有趣科技新闻, 实用工具网站, 消磨时间利器的互联网杂志。'
-    - term: 博客站点
-      links:
-        - title: 博友圈
-          logo: b/boyouquan.webp
-          url: https://www.boyouquan.com/
-          description: 博客人的朋友圈。
-        - title: 酷壳
-          url: https://www.coolshell.cn/
-          logo: c/coolshell.webp
-          description: 酷壳 – CoolShell。
-        - title: "Yihui Xie | 谢益辉"
-          logo: y/yihui.png
-          url: https://yihui.org/
-          description: 谢益辉的个人网站。
-        - title: 生信菜鸟团
-          url: http://www.bio-info-trainee.com/
-          logo: b/bio-info-trainee.png
-          description: Jimmy 的个人博客笔记。
-        - title: 思考问题的熊
-          url: https://kaopubear.top/
-          logo: k/kaopubear.png
-          description: 中科院生物信息学博士，生物医疗相关。
-        - title: 徐洲更的第二大脑
-          url: https://xuzhougeng.top/
-          logo: x/xuzhougeng.webp
-          description: 中科院博士，编程技术爱好者。
-    - term: 教育平台
-      links:
-        - title: 广州安全教育平台
-          url: https://guangzhou.xueanquan.com/
-          logo: x/xueanquan.jpg
-          description: 广州市学校安全教育平台。
-    - term: 书籍文档
-      links:
-        - title: 微信读书
-          url: https://weread.qq.com/
-          logo: w/weread-qq.jpg
-          description: 微信读书电脑版。
-        - title: 'Neat Reader'
-          url: https://www.neat-reader.cn/
-          logo: n/neat-reader.jpg
-          description: 新世代 ePub/Txt 阅读器。
-        - title: 书栈网
-          url: https://www.bookstack.cn/
-          logo: b/bookstack.png
-          description: IT 互联网开源编程书籍免费阅读与下载。
-        - title: 'Qi Reader'
-          url: https://www.qireader.com/
-          logo: q/qireader.png
-          description: 优雅的在线 RSS 阅读器。
-    - term: 视频教程
-      links:
-        - title: Photoshop Lady
-          url: http://www.photoshoplady.com/
-          logo: p/photoshoplady.png
-          description: Your Favourite Photoshop Tutorials in One Place.
-        - title: doyoudo
-          url: http://doyoudo.com/
-          logo: d/doyoudo.png
-          description: 创意设计软件学习平台。
-        - title: 没位道
-          url: http://www.c945.com/web-ui-tutorial/
-          logo: w/web-ui-tutorial.png
-          description: WEB UI免费视频公开课。
-        - title: 慕课网
-          url: https://www.imooc.com/
-          logo: i/imooc.png
+        - title: 有道词典
+          logo: 有道词典.png
+          url: https://www.youdao.com/
+          description: 免费，即时的多语种在线翻译。
+        - title: 有道翻译
+          logo: 有道词典.png
+          url: http://fanyi.youdao.com/
+          description: 有道翻译。
+        - title: 谷歌翻译
+          logo: 谷歌翻译.jpg
+          url: https://translate.google.cn/
+          description: 谷歌翻译。
+        - title: ProcessOn
+          logo: ProcessOn.png
+          url: https://www.processon.com/
+          description: 免费在线作图、实时协作。
         
+
 - taxonomy: 悠闲娱乐
-  icon: fas fa-mug-hot
+  icon: fas fa-film fa-lg
   list:
     - term: 影音视频
       links:
         - title: 腾讯视频
-          logo: v/v-qq.png
+          logo: 腾讯视频.png
           url: http://v.qq.com/
           description: 腾讯视频，海量视频在线观看。
-        - title: 咪咕视频
-          logo: m/miguvideo.jpg
-          url: https://www.miguvideo.com/
-          description: 在线视频播放平台。
-        - title: 抖音
-          logo: d/douyin.png
-          url: https://www.douyin.com/
-          description: 抖音-记录美好生活。
         - title: 优酷
-          logo: y/youku.png
+          logo: 优酷.png
           url: http://www.youku.com/
           description: 优酷 - 这个世界很酷。
         - title: 爱奇艺
-          logo: i/iqiyi.png
+          logo: 爱奇艺.png
           url: https://www.iqiyi.com/
           description: 爱奇艺在线视频。
         - title: 哔哩哔哩
-          logo: b/bilibili.png
+          logo: 哔哩哔哩.png
           url: https://www.bilibili.com/
           description: Bilibili 视频弹幕网站。
         - title: QQ 音乐
-          logo: y/y-qq.jpg
+          logo: QQ音乐.jpg
           url: https://y.qq.com/
           description: QQ 音乐，在线听歌。
         - title: 网易云音乐
-          logo: m/music-163.png
+          logo: 网易云音乐.jpg
           url: https://music.163.com/
           description: 163 网易云音乐。
-        - title: 电影天堂
-          logo: d/dygod.png
-          url: https://www.dygod.org/
-          description: "www.dygod.org。"
     - term: 游戏竞技
       links:
-        - title: 战地之王（龙龙网）
-          logo: a/ava.webp
-          url: http://ava.llwl.cn/
-          description: 龙龙网络 AVA 战地之王。
-        - title: 战地之王（台服）
-          logo: a/ava.webp
+        - title: 百度贴吧
+          logo: 百度贴吧.jpg
+          url: ttps://tieba.baidu.com/index.html
+          description: 百度贴吧。
+        - title: 台服战地
+          logo: 战地之王.png
           url: https://ava.mangot5.com/ava/index
           description: 台服 AVA 战地之王。
-        - title: 战地之王（国际服）
-          logo: a/ava.webp
-          url: https://avaonline.global/
-          description: The official A.V.A Global.
-        - title: Steam
-          logo: s/steam.jpg
-          url: https://store.steampowered.com/
-          description: 欢迎来到 Steam。
-
-- taxonomy: 社区论坛
-  icon: fas fa fa-comments
-  list:
-    - term: 社交娱乐
-      links:
-        - title: 虎扑社区
-          url: https://bbs.hupu.com/
-          logo: h/hupu-bbs.png
-          description: 以体育赛事和日常生活为主的专业直文化社区。
-        - title: 中羽在线社区
-          logo: b/badmintoncn-bbs.png
-          url: https://bbs.badmintoncn.com/portal.php
-          description: 中羽在线社区-羽毛球友都在这！
-        - title: 百度贴吧
-          logo: t/tieba-baidu.png
-          url: https://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 豆瓣
-          logo: d/douban.png
-          url: https://www.douban.com/
-          description: 豆瓣社区。
-        - title: Facebook
-          logo: f/facebook.png
-          url: https://www.facebook.com/
-          description: Facebook
-        - title: NGA 玩家社区
-          url: https://bbs.nga.cn/
-          logo: n/nga-bbs.png
-          description: 国内专业的游戏玩家社区。
-    - term: 开源社区
-      links:
-        - title: openEuler
-          logo: o/openeuler.png
-          url: https://www.openeuler.org/
-          description: 欧拉 openEuler 社区。
-        - title: OpenAnolis
-          logo: o/openanolis.png
-          url: https://openanolis.cn/
-          description: 龙蜥 OpenAnolis 社区。
-        - title: Rocky Linux
-          logo: r/rockylinux.png
-          url: https://rockylinux.org/
-          description: Rocky Linux OS。
-        - title: AlmaLinux
-          logo: a/almalinux.png
-          url: https://almalinux.org/
-          description: AlmaLinux OS.
-        - title: Openbiox
-          logo: o/openbiox.jpg
-          url: https://openbiox.org/
-          description: 生物信息学开源社区。
-        - title: 开源之夏
-          logo: s/summer-ospp.svg
-          url: https://summer-ospp.ac.cn/
-          description: 中科院软件所发起并长期支持的一项暑期开源活动。
-    - term: 生信论坛
-      links:
-        - title: Biostars
-          url: https://www.biostars.org/
-          logo: b/biostars.png
-          description: Bioinformatics Answers.
-        - title: OmicShare Forum
-          url: https://www.omicshare.com/forum/forum.php
-          logo: o/omicshare-forum.png
-          description: 广州基迪奥生物信息论坛。
-        - title: 生信技能树
-          url: http://www.biotrainee.com/
-          logo: b/biotrainee.jpg
-          description: 帮助每一位生信人构建最完善的生信技能树。
-        - title: BioLinkX
-          url: https://www.yuque.com/biolinkx
-          logo: b/biolinks.png
-          description: BioLinkX 生物信息学协会。
-        - title: BioAnno
-          url: https://bioanno.com/
-          logo: b/bioanno.jpg
-          description: TBtools 技能易物社区。
-          
-    - term: 技术社区
-      links:
-        - title: 开源中国
-          url: https://www.oschina.net/
-          logo: o/oschina.webp
-          description: 中文开源技术交流社区。
-        - title: 'Stack Overflow'
-          url: https://stackoverflow.com/
-          logo: s/stackoverflow.png
-          description: 'Where Developers Learn, Share, & Build Careers.'
-        - title: 博客园
-          logo: c/cnblogs.jpg
-          url: https://www.cnblogs.com/
-          description: 开发者的网上家园。
-        - title: 简书
-          url: https://www.jianshu.com/
-          logo: j/jianshu.png
-          description: 简书 - 创作你的创作。
-        - title: 稀土掘金
-          url: https://juejin.cn/
-          logo: j/juejin.png
-          description: 掘金 - 代码不止，掘进不停。
-        - title: CSDN
-          url: https://www.csdn.net/
-          logo: c/csdn.png
-          description: CSDN - 专业开发者社区。
-        - title: InfoQ
-          url: https://www.infoq.cn/
-          logo: i/infoq.png
-          description: 旨在促进软件开发领域知识与创新的传播。
-        - title: SegmentFault
-          url: https://segmentfault.com/
-          logo: s/segmentfault.png
-          description: 思否，开发者技术社区。
-        - title: 花粉俱乐部
-          logo: h/huaweicloud.png
-          url: https://club.huawei.com/
-          description: 华为花粉俱乐部。
-        - title: 荣耀俱乐部
-          logo: c/club-hihonor.jpg
-          url: https://club.hihonor.com/cn/
-          description: 荣耀手机官方论坛。
-        - title: 卡饭论坛
-          url: https://bbs.kafan.cn/portal.php
-          logo: p/portal-kafan.jpg
-          description: 最好的软件论坛。
-        - title: Inoreader
-          url: https://www.inoreader.com/
-          logo: i/inoreader.png
-          description: 重新掌控你的新闻订阅源。
-        - title: Hacker News
-          url: https://news.ycombinator.com/
-          logo: h/hacker-news.png
-          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
-        - title: 经管之家
-          url: https://bbs.pinggu.org/
-          logo: p/pinggu-bbs.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
-        - title: 统计之都
-          url: https://cosx.org/
-          logo: c/cosx.png
-          description: 一个旨在推广与应用统计学知识的网站和社区。
-
-- taxonomy: 工具集合
-  icon: fas fa-tools fa-lg
-  list: 
-    - term: 图形文档
-      links:
-        - title: 'Flomo · 浮墨笔记'
-          logo: flomo.png
-          url: https://flomoapp.com/
-          description: 像发微博一样记笔记，记录你想法的川流。
-        - title: 石墨文档
-          url: https://shimo.im/
-          logo: s/shimo.webp
-          description: 支持多人协作的在线文档编辑工具。
-        - title: 腾讯文档
-          url: https://docs.qq.com/
-          logo: d/docs-qq.png
-          description: 腾讯文档 - 官方网站。
-        - title: ProcessOn
-          logo: p/processon.png
-          url: https://www.processon.com/
-          description: 免费在线作图、实时协作。
-        - title: 幕布
-          url: https://mubu.com/
-          logo: m/mubu.jpg
-          description: 极简大纲笔记，可以一键生成思维导图。
-        - title: 百度脑图
-          url: https://naotu.baidu.com/
-          logo: n/naotu-baidu.webp
-          description: 百度便捷的在线思维导图制作工具。
-        - title: GitMind
-          url: https://gitmind.cn/
-          logo: g/getmind.png
-          description: 好用的全平台思维导图软件。
-        - title: tinypng
-          url: https://tinypng.com/
-          logo: tinypng.png
-          description: Optimize your images with a perfect balance in quality and file size.
-        - title: goqr
-          url: http://goqr.me/
-          logo: goqr.png
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
-        - title: ezgif
-          url: https://ezgif.com
-          logo: ezgif.png
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-        - title: Android 9 patch
-          url: http://inloop.github.io/shadow4android/
-          logo: Android9patch.png
-          description: Android 9-patch shadow generator fully customizable shadows.
-        - title: screen sizes
-          url: http://screensiz.es/
-          logo: screensizes.png
-          description: Viewport Sizes and Pixel Densities for Popular Devices.
-        - title: svgomg
-          url: https://jakearchibald.github.io/svgomg/
-          logo: svgomg.png
-          description: SVG 在线压缩平台。
-        - title: 稿定抠图
-          url: https://www.gaoding.com
-          logo: gaoding.png
-          description: 免费在线抠图软件,图片快速换背景-抠白底图。
-    - term: 图床运营
-      links:
-        - title: 腾讯问卷
-          url: https://wj.qq.com/
-          logo: w/wj-qq.png
-          description: 免费好用的问卷调查系统。
-        - title: 草料二维码
-          url: https://cli.im/
-          logo: c/cli-im.png
-          description: 将不同类型的内容生成二维码。
-        - title: 'SM.MS'
-          url: https://sm.ms/
-          logo: s/smms.png
-          description: 免费图床工具。
-        - title: ImgURL
-          url: https://www.imgurl.org/
-          logo: i/imgurl.png
-          description: 免费图片外链工具。
-    - term: 视频语音
-      links:
-         - title: 一帧秒创
-           url: https://aigc.yizhentv.com/
-           logo: 一帧秒创.png
-           description: AI 视频创作平台。
-    - term: 谷歌插件
-      links:
-        - title: wappalyzer
-          url: https://www.wappalyzer.com/
-          logo: wappalyzer.png
-          description: Identify technology on websites.
-        - title: Panda
-          url: http://usepanda.com/
-          logo: usepanda.png
-          description: A smart news reader built for productivity.
-        - title: sizzy
-          url: https://sizzy.co/
-          logo: sizzy.png
-          description: A tool for developing responsive websites crazy-fast.
-        - title: csspeeper
-          url: https://csspeeper.com/
-          logo: csspeeper.png
-          description: Smart CSS viewer tailored for Designers.
-        - title: insight
-          url: http://insight.io/
-          logo: insight.png
-          description: IDE-like code search and navigation, on the cloud.
-        - title: mustsee
-          url: http://mustsee.earth/
-          logo: mustsee.png
-          description: Discover the world's most beautiful places at every opened tab.
-    - term: 图形创意
-      links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
-          logo: photoshop.png
-          description: Photoshop不需要解释
-        - title: Affinity Designer
-          url: https://affinity.serif.com/
-          logo: AffinityDesigner.png
-          description: 专业创意软件
-        - title: Illustrator
-          url: https://www.adobe.com/cn/products/illustrator/
-          logo: Illustrator.png
-          description: 矢量图形和插图。
-        - title: indesign
-          url: http://www.adobe.com/cn/products/indesign.html
-          logo: INDESIGN .png
-          description: 页面设计、布局和出版。
-        - title: cinema-4d
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: cinema4d.png
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-        - title: 3ds-max
-          url: https://www.autodesk.com/products/3ds-max/overview
-          logo: 3dsmax.png
-          description: 3D modeling, animation, and rendering software
-        - title: Blender
-          url: https://www.blender.org/
-          logo: blender.png
-          description: Blender is the free and open source 3D creation suite.
-    - term: 界面设计
-      links:
-        - title: Sketch
-          url: https://sketchapp.com/
-          logo: sketchapp.png
-          description: The digital design toolkit
-        - title: Adobe XD
-          url: http://www.adobe.com/products/xd.html
-          logo: ADOBEXDCC.png
-          description: Introducing Adobe XD. Design. Prototype. Experience.
-        - title: invisionapp
-          url: https://www.invisionapp.com/
-          logo: invisionapp.png
-          description: Powerful design prototyping tools
-        - title: marvelapp
-          url: https://marvelapp.com/
-          logo: marvelapp.png
-          description: Simple design, prototyping and collaboration
-        - title: Muse CC
-          url: https://creative.adobe.com/zh-cn/products/download/muse
-          logo: MuseCC.png
-          description: 无需利用编码即可进行网站设计。
-        - title: figma
-          url: https://www.figma.com/
-          logo: figma.png
-          description: Design, prototype, and gather feedback all in one place with Figma.
-    - term: 在线配色
-      links:
-        - title: khroma
-          url: http://khroma.co/generator/
-          logo: khroma.png
-          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
-        - title: uigradients
-          url: https://uigradients.com
-          logo: uigradients.png
-          description: Beautiful colored gradients.
-        - title: gradients
-          url: http://gradients.io/
-          logo: gradients.png
-          description: Curated gradients for designers and developers.
-        - title: Coolest
-          url: https://webkul.github.io/coolhue/
-          logo: Coolest.png
-          description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
-        - title: webgradients
-          url: https://webgradients.com/
-          logo: webgradients.png
-          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. 
-        - title: grabient
-          url: https://www.grabient.com/
-          logo: grabient.png
-          description: 2017 Grabient by unfold.
-        - title: thedayscolor
-          url: http://www.thedayscolor.com/
-          logo: thedayscolor.png
-          description: The daily color digest
-        - title: flatuicolors
-          url: http://flatuicolors.com/
-          logo: flatuicolors.png
-          description: Copy Paste Color Pallette from Flat UI Theme.
-        - title: coolors
-          url: https://coolors.co/
-          logo: coolors.png
-          description: The super fast color schemes generator!
-        - title: colorhunt
-          url: http://www.colorhunt.co/
-          logo: colorhunt.png
-          description: Beautiful Color Palettes.
-        - title: Adobe Color CC
-          url: https://color.adobe.com/zh/create/color-wheel
-          logo: AdobeColorCC.png
-          description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
-        - title: flatuicolorpicker
-          url: http://www.flatuicolorpicker.com/
-          logo: flatuicolorpicker.png
-          description: Best Flat Colors For UI Design.
-        - title: trianglify
-          url: http://qrohlf.com/trianglify-generator/
-          logo: trianglify.png
-          description: Trianglify Generator.
-        - title: klart
-          url: https://klart.co/colors/
-          logo: klart.png
-          description: Beautiful colors and designs to your inbox every week.
-        - title: vanschneider
-          url: http://www.vanschneider.com/colors
-          logo: vanschneider.png
-          description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
-
+   
       
 - taxonomy: 素材资源
-  icon: fas fa-folder-open fa-lg
+  icon: far fa-folder-open fa-lg
   list:
     - term: 网盘资源
       links:
@@ -1113,30 +367,261 @@
           url: http://www.abstractfonts.com/
           logo: abstractfonts.png
           description: Abstract Fonts (13,866 free fonts).      
-    - term: PPT资源
+      
+
+- taxonomy: 开发设计
+  icon: fas fa-tools fa-lg
+  list: 
+    - term: 图形创意
       links:
-        - title: OfficePLUS
-          url: http://www.officeplus.cn/Template/Home.shtml
-          logo: officeplus.png
-          description: OfficePLUS，微软Office官方在线模板网站！
-        - title: 优品PPT
-          url: http://www.ypppt.com/
-          logo: ypppt.png
-          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源。
-        - title: PPT+
-          url: http://www.pptplus.cn/
-          logo: pptplus.png
-          description: PPT加直播、录制和分享—PPT+语音内容分享平台。
-        - title: PPTMind
-          url: http://www.pptmind.com/
-          logo: pptmind.png
-          description: 分享高端 ppt 模板与 keynote 模板的数字作品交易平台。
-        - title: tretars
-          url: http://www.tretars.com/ppt-templates
-          logo: tretars.png
-          description: The best free Mockups from the Web.
-        - title: 五百丁
-          url: http://ppt.500d.me/
-          logo: 500d.png
-          description: 中国领先的PPT模板共享平台。
+        - title: photoshop
+          url: https://www.adobe.com/cn/products/photoshop.html
+          logo: photoshop.png
+          description: Photoshop不需要解释
+        - title: Affinity Designer
+          url: https://affinity.serif.com/
+          logo: AffinityDesigner.png
+          description: 专业创意软件
+        - title: Illustrator
+          url: https://www.adobe.com/cn/products/illustrator/
+          logo: Illustrator.png
+          description: 矢量图形和插图。
+        - title: indesign
+          url: http://www.adobe.com/cn/products/indesign.html
+          logo: INDESIGN .png
+          description: 页面设计、布局和出版。
+        - title: cinema-4d
+          url: https://www.maxon.net/en/products/cinema-4d/overview/
+          logo: cinema4d.png
+          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
+        - title: 3ds-max
+          url: https://www.autodesk.com/products/3ds-max/overview
+          logo: 3dsmax.png
+          description: 3D modeling, animation, and rendering software
+        - title: Blender
+          url: https://www.blender.org/
+          logo: blender.png
+          description: Blender is the free and open source 3D creation suite.
+    - term: 界面设计
+      links:
+        - title: Sketch
+          url: https://sketchapp.com/
+          logo: sketchapp.png
+          description: The digital design toolkit
+        - title: Adobe XD
+          url: http://www.adobe.com/products/xd.html
+          logo: ADOBEXDCC.png
+          description: Introducing Adobe XD. Design. Prototype. Experience.
+        - title: invisionapp
+          url: https://www.invisionapp.com/
+          logo: invisionapp.png
+          description: Powerful design prototyping tools
+        - title: marvelapp
+          url: https://marvelapp.com/
+          logo: marvelapp.png
+          description: Simple design, prototyping and collaboration
+        - title: Muse CC
+          url: https://creative.adobe.com/zh-cn/products/download/muse
+          logo: MuseCC.png
+          description: 无需利用编码即可进行网站设计。
+        - title: figma
+          url: https://www.figma.com/
+          logo: figma.png
+          description: Design, prototype, and gather feedback all in one place with Figma.
+    - term: 在线配色
+      links:
+        - title: khroma
+          url: http://khroma.co/generator/
+          logo: khroma.png
+          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
+        - title: uigradients
+          url: https://uigradients.com
+          logo: uigradients.png
+          description: Beautiful colored gradients.
+        - title: gradients
+          url: http://gradients.io/
+          logo: gradients.png
+          description: Curated gradients for designers and developers.
+        - title: Coolest
+          url: https://webkul.github.io/coolhue/
+          logo: Coolest.png
+          description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
+        - title: webgradients
+          url: https://webgradients.com/
+          logo: webgradients.png
+          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. 
+        - title: grabient
+          url: https://www.grabient.com/
+          logo: grabient.png
+          description: 2017 Grabient by unfold.
+        - title: thedayscolor
+          url: http://www.thedayscolor.com/
+          logo: thedayscolor.png
+          description: The daily color digest
+        - title: flatuicolors
+          url: http://flatuicolors.com/
+          logo: flatuicolors.png
+          description: Copy Paste Color Pallette from Flat UI Theme.
+        - title: coolors
+          url: https://coolors.co/
+          logo: coolors.png
+          description: The super fast color schemes generator!
+        - title: colorhunt
+          url: http://www.colorhunt.co/
+          logo: colorhunt.png
+          description: Beautiful Color Palettes.
+        - title: Adobe Color CC
+          url: https://color.adobe.com/zh/create/color-wheel
+          logo: AdobeColorCC.png
+          description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
+        - title: flatuicolorpicker
+          url: http://www.flatuicolorpicker.com/
+          logo: flatuicolorpicker.png
+          description: Best Flat Colors For UI Design.
+        - title: trianglify
+          url: http://qrohlf.com/trianglify-generator/
+          logo: trianglify.png
+          description: Trianglify Generator.
+        - title: klart
+          url: https://klart.co/colors/
+          logo: klart.png
+          description: Beautiful colors and designs to your inbox every week.
+        - title: vanschneider
+          url: http://www.vanschneider.com/colors
+          logo: vanschneider.png
+          description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
+    - term: 在线工具
+      links:
+        - title: tinypng
+          url: https://tinypng.com/
+          logo: tinypng.png
+          description: Optimize your images with a perfect balance in quality and file size.
+        - title: goqr
+          url: http://goqr.me/
+          logo: goqr.png
+          description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
+        - title: ezgif
+          url: https://ezgif.com
+          logo: ezgif.png
+          description: simple online GIF maker and toolset for basic animated GIF editing.
+        - title: Android 9 patch
+          url: http://inloop.github.io/shadow4android/
+          logo: Android9patch.png
+          description: Android 9-patch shadow generator fully customizable shadows.
+        - title: screen sizes
+          url: http://screensiz.es/
+          logo: screensizes.png
+          description: Viewport Sizes and Pixel Densities for Popular Devices.
+        - title: svgomg
+          url: https://jakearchibald.github.io/svgomg/
+          logo: svgomg.png
+          description: SVG 在线压缩平台。
+        - title: 稿定抠图
+          url: https://www.gaoding.com
+          logo: gaoding.png
+          description: 免费在线抠图软件,图片快速换背景-抠白底图。
+        
+    - term: 谷歌插件
+      links:
+        - title: wappalyzer
+          url: https://www.wappalyzer.com/
+          logo: wappalyzer.png
+          description: Identify technology on websites.
+        - title: Panda
+          url: http://usepanda.com/
+          logo: usepanda.png
+          description: A smart news reader built for productivity.
+        - title: sizzy
+          url: https://sizzy.co/
+          logo: sizzy.png
+          description: A tool for developing responsive websites crazy-fast.
+        - title: csspeeper
+          url: https://csspeeper.com/
+          logo: csspeeper.png
+          description: Smart CSS viewer tailored for Designers.
+        - title: insight
+          url: http://insight.io/
+          logo: insight.png
+          description: IDE-like code search and navigation, on the cloud.
+        - title: mustsee
+          url: http://mustsee.earth/
+          logo: mustsee.png
+          description: Discover the world's most beautiful places at every opened tab.
+
+
+- taxonomy: 资讯学习
+  icon: fas fa-pencil-alt fa-lg
+  list: 
+    - term: 资讯书籍
+      links:
+        - title: 微信读书
+          url: https://weread.qq.com/
+          logo: 微信读书.jpg
+          description: 微信读书电脑版。
+        - title: 书栈网
+          url: https://www.bookstack.cn/
+          logo: 书栈网.jpg
+          description: IT 互联网开源编程书籍免费阅读与下载。
+    - term: 博客论坛
+      links:
+        - title: Inoreader
+          url: https://www.inoreader.com/
+          logo: inoreader.jpg
+          description: 重新掌控你的新闻订阅源。
+        - title: Hacker News
+          url: https://news.ycombinator.com/
+          logo: hacker-news.jpg
+          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
+        - title: 经管之家
+          url: https://bbs.pinggu.org/
+          logo: 经管之家.jpg
+          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
+        - title: 阮一峰的网络日志
+          url: http://www.ruanyifeng.com/blog/
+          logo: 阮一峰.png
+          description: 阮一峰，科技爱好者周刊。
+        - title: 酷壳
+          url: https://www.coolshell.cn/
+          logo: ''
+          description: 酷 壳 – CoolShell。
+    - term: 设计规范
+      links:
+        - title: Design Guidelines
+          url: http://designguidelines.co/
+          logo: designguidelines.png
+          description: Design Guidelines &mdash; The way products are built.
+        - title: Awesome design systems
+          url: https://github.com/alexpate/awesome-design-systems
+          logo: awesome_design_systems.png
+          description:  A collection of awesome design systems.
+        - title: Material Design
+          url: https://material.io/guidelines/
+          logo: Material_Design.png
+          description: Introduction - Material Design.
+        - title: Human Interface Guidelines
+          url: https://developer.apple.com/ios/human-interface-guidelines
+          logo: human_interface_guidelines.png
+          description: Human Interface Guidelines iOS.
+        - title: Photoshop Etiquette
+          url: http://viggoz.com/photoshopetiquette/
+          logo: photoshopetiquette.png
+          description: PS礼仪-WEB设计指南。
+    - term: 视频教程
+      links:
+        - title: Photoshop Lady
+          url: http://www.photoshoplady.com/
+          logo: PhotoshopLady.png
+          description: Your Favourite Photoshop Tutorials in One Place.
+        - title: doyoudo
+          url: http://doyoudo.com/
+          logo: doyoudo.png
+          description: 创意设计软件学习平台。
+        - title: 没位道
+          url: http://www.c945.com/web-ui-tutorial/
+          logo: web_ui_tutorial.png
+          description: WEB UI免费视频公开课。
+        - title: 慕课网
+          url: https://www.imooc.com/
+          logo: imooc.png
+          description: 程序员的梦工厂（有UI课程）。
         
